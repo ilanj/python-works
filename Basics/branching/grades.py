@@ -1,8 +1,9 @@
 #100-s, >90-A, >80-B, >70-c, >60-D, >50-E, <50-fail
 marks=int(input("enter marks"))
-if marks<0 or marks>100:
-    print("invalid marks")
-elif(marks==100):
+
+if marks>100 or marks<0:
+    print("invalid marks.. mark cannot be beyond 100 or within 0")
+elif marks==100:
     print("s grade")
 elif marks>90:
     print('A grade')

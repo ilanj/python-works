@@ -1,3 +1,4 @@
+#whether a no is divisible by 3 nd 5
 n=int(input('enter n'))
 
 if n%3==0 and n%5==0:

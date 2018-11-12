@@ -1,3 +1,5 @@
-complex=[23,'afaf', 52.26, True]
-for a in complex:
-    print(a)
+ex=[]
+for i in range(5):
+    temp=input("enter any input")
+    ex.append(temp)
+print(ex)

@@ -21,9 +21,23 @@ if "id" in student:
   print(student.get("id"), ' is available')
 
 print(student)
+student.popitem()
+print(student)
 student.pop(14)
 print(student)
+
 x = ('key1', 'key2', 'key3')
 y="fff","ded","fgg"
 thisdict = dict.fromkeys(x,y)
 print(thisdict)
+
+car = {
+  "brand": "Ford",
+  #"model":"mustang",
+  "year": 1964
+}
+
+x = car.setdefault("model", "Bronco")
+
+print(x)
+print(car)

@@ -19,7 +19,7 @@ addsum=sum(nos,10)
 print(addsum)
 print(sum(nos))
 #print(nos.sort())
-rev=reversed(nos)
+rev=list(reversed(nos))
 
 for a in reversed(rev):
     print('after reverse',a)

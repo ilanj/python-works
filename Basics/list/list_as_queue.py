@@ -7,7 +7,5 @@ print(nos)
 nos.append(5)
 nos.append(6)
 print(nos)
-
 nos.popleft()
 print(nos)
-

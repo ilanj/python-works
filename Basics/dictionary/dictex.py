@@ -6,13 +6,15 @@ student =	{
     14:"sddd"
 }
 print(student)
-str=student[12]
-print(str)
+name=student["name"]
+print(name)
+
 str=student.get("place")
 print(str)
 student["place"]="shozhinganallur"
 print(student)
 student["college"]="aiht"
+print(student)
 
 for x,y in student.items():
     print(x,y)
@@ -22,22 +24,7 @@ if "id" in student:
 
 print(student)
 student.popitem()
+print("after pop",student)
+student.pop(12)
 print(student)
-student.pop(14)
-print(student)
 
-x = ('key1', 'key2', 'key3')
-y="fff","ded","fgg"
-thisdict = dict.fromkeys(x,y)
-print(thisdict)
-
-car = {
-  "brand": "Ford",
-  #"model":"mustang",
-  "year": 1964
-}
-
-x = car.setdefault("model", "Bronco")
-
-print(x)
-print(car)

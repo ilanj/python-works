@@ -3,4 +3,5 @@ print(nos)
 nos.append(8)
 print(nos)
 nos.pop()
+
 print(nos)

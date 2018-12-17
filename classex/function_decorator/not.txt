@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/class-method-vs-static-method-python/
+https://www.makeuseof.com/tag/python-instance-static-class-methods/

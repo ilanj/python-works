@@ -1,60 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/exceptionhandling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/file_operations/json_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/file_operations/json_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/file_operations/read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/file_operations/write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/functions/modules/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/functions/modules/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/io/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/enumerate_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/zip_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/operators/identity_membership.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/programs/basicprograms/modulus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/programs/basicprograms/swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/sets/ex_prog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/_/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/_/run_Singleunderscore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/_/single_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/__/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/__/derived.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/initex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/local_nonlocal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/scopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/selfex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miscellaneous/direxample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/namespace.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/shortcuts.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/tools.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/sysmodule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="double _">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/andoreg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/andoreg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/ifelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/oddoreven.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/oddoreven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/simpleif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/simpleif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dictex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dictex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/heterogeneous.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/heterogeneous.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listEg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_as_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_as_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_doubles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_doubles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listfunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/programs/basicprograms/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/sets/setex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/sets/setex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/tuples/words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/tuples/words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classex/__/derived.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/__/derived.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classex/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/class_intro/instance_obj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classex/initex.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/class_intro/initex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classex/local_nonlocal.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/class_intro/local_nonlocal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classex/scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/class_intro/scopes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classex/selfex.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/class_intro/selfex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/functions/modules/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classex/_/single_.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,11 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classex/__/derived.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classex/class_intro/instance_obj.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -110,7 +64,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/local_nonlocal.py">
+        <entry file="file://$PROJECT_DIR$/classex/class_intro/local_nonlocal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
@@ -170,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basics/programs/loopprograms/reverse.py" />
         <option value="$PROJECT_DIR$/Basics/list/list_as_queue.py" />
         <option value="$PROJECT_DIR$/Basics/list/list_as_stack.py" />
         <option value="$PROJECT_DIR$/Basics/list/ex_comprehension.py" />
@@ -221,6 +174,7 @@
         <option value="$PROJECT_DIR$/classex/__/test.py" />
         <option value="$PROJECT_DIR$/classex/__/base.py" />
         <option value="$PROJECT_DIR$/classex/__/derived.py" />
+        <option value="$PROJECT_DIR$/classex/class_intro/instance_obj.py" />
       </list>
     </option>
   </component>
@@ -236,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,7 +207,7 @@
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
               <item name="classex" type="462c0819:PsiDirectoryNode" />
-              <item name="__" type="462c0819:PsiDirectoryNode" />
+              <item name="class_intro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -263,7 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,6 +225,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classex/class_intro" />
       <recent name="$PROJECT_DIR$/classex/_and__" />
       <recent name="$PROJECT_DIR$/classex" />
       <recent name="C:\Users\auxouser\PycharmProjects\demo\Basics\programs" />
@@ -288,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.derived">
+  <component name="RunManager" selected="Python.instance_obj">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -352,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="instance_obj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/functions/modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classex/class_intro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/functions/modules/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classex/class_intro/instance_obj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -503,19 +458,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.run" />
       <item itemvalue="Python.single_" />
       <item itemvalue="Python.run_Singleunderscore" />
       <item itemvalue="Python.derived" />
       <item itemvalue="Python.base" />
+      <item itemvalue="Python.instance_obj" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.instance_obj" />
         <item itemvalue="Python.derived" />
         <item itemvalue="Python.base" />
         <item itemvalue="Python.single_" />
         <item itemvalue="Python.run_Singleunderscore" />
-        <item itemvalue="Python.run" />
       </list>
     </recent_temporary>
   </component>
@@ -530,13 +485,21 @@
       <option name="presentableId" value="Default" />
       <updated>1528299458773</updated>
     </task>
+    <task id="LOCAL-00001" summary="double _">
+      <created>1545015279497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545015279497</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="35" width="1853" height="1045" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433352" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14556609" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -557,6 +520,10 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="double _" />
+    <option name="LAST_COMMIT_MESSAGE" value="double _" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -576,7 +543,7 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/classex/local_nonlocal.py</url>
+          <url>file://$PROJECT_DIR$/classex/class_intro/local_nonlocal.py</url>
           <line>22</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -584,13 +551,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/file_operations/json_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/loops/breakcontinue/bcdemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -812,21 +772,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/initex.py">
+    <entry file="file://$PROJECT_DIR$/classex/class_intro/initex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/scopes.py">
+    <entry file="file://$PROJECT_DIR$/classex/class_intro/scopes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/selfex.py">
+    <entry file="file://$PROJECT_DIR$/classex/class_intro/selfex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
@@ -843,11 +803,32 @@
     <entry file="file://$PROJECT_DIR$/Basics/functions/modules/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/local_nonlocal.py">
+    <entry file="file://$PROJECT_DIR$/classex/_/single_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classex/__/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classex/_/run_Singleunderscore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classex/class_intro/local_nonlocal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
@@ -878,31 +859,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/_/run_Singleunderscore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/_/single_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/__/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classex/__/derived.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classex/class_intro/instance_obj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>

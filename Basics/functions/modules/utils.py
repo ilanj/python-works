@@ -21,9 +21,6 @@ def fibonacci(n):
 def _nesting():
     def nest1():
         print("i am nest 1")
-    def nest2():
-        return " i am nest 2"
     nest1()
     return "i am main nest"
 
-print(_nesting())

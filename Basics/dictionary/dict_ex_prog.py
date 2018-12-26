@@ -1,11 +1,12 @@
 student={
-    "name":"vneela",
+    "name":"Hajara",
     "id":36,
     43:"check",
     "address":"navalur"
 }
 
 print(student)
-for y in student:
-    print(y)
+
+for x,y in student.items():
+    print(x,"\t",y)
 

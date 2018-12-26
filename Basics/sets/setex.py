@@ -1,8 +1,8 @@
 #as set is un ordered u cannot do any operation with index
 elements={'a','b','c','d'}
+elements.add('e')
 elements.add('a')
 print(elements)
-
 
 elements.add("new_element")
 elements.add(45)
@@ -18,3 +18,5 @@ nos.add(25)
 print(nos)
 nos.remove(25)
 print(nos)
+
+

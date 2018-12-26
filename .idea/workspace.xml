@@ -2,18 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="double _">
-      <change afterPath="$PROJECT_DIR$/classex/class_instance_vars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/class_instance_vars1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/multipleinheritance/banka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/multipleinheritance/bankb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calcube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calsqr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/functions/run_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/list/sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/loops/for/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/loops/generator/exgenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/loops/generator/generatesq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/loops/iterator/iterator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/loops/iterator/iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/programs/loopprograms/reversesimple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miscellaneous/ffaefaef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/listwithzip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zip/zip_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/programs/loopprograms/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/programs/loopprograms/patterns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/decorator_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/classex/function_decorator/decorator_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dictex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dictex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/defaultarg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/defaultarg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/modules/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/modules/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/modules/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/modules/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listEg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_as_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/list_doubles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_doubles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/sets/ex_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/sets/ex_prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/sets/setex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/sets/setex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/tuples/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/file_operations/print2console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,36 +46,46 @@
     <session id="216150098">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="91" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="19" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="10" />
-          <entry key="py" value="2577" />
-          <entry key="txt" value="323" />
+          <entry key="dummy" value="21" />
+          <entry key="py" value="4838" />
+          <entry key="txt" value="351" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="333" />
-          <entry key="Python" value="2577" />
+          <entry key="PLAIN_TEXT" value="372" />
+          <entry key="Python" value="4838" />
         </counts>
       </usages-collector>
     </session>
@@ -62,108 +93,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/programs/loopprograms/patterns.py">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calsqr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding>
-                <marker date="1545156461239" expanded="true" signature="37:42" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#65#0" expanded="true" />
-                <marker date="1545156461290" expanded="true" signature="179:184" ph="..." />
-                <marker date="1545156461290" expanded="true" signature="203:208" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#63#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="21" selection-start-column="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/note.txt">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/banka.py">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/args.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1545797908147" expanded="true" signature="139:160" ph="..." />
+                <marker date="1545797908147" expanded="true" signature="158:159" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/run_calc.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding>
-                <marker date="1545156287991" expanded="true" signature="12:17" ph="..." />
-              </folding>
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/bankb.py">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/modules/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calcube.py">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/modules/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <marker date="1545156461179" expanded="true" signature="121:126" ph="..." />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classex/class_intro/initex.py">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/defaultarg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/urls.txt">
+        <entry file="file://$PROJECT_DIR$/Basics/functions/functionsarg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+            <state relative-caret-position="272">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -188,41 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basics/file_operations/json_read.py" />
-        <option value="$PROJECT_DIR$/practice/sysmodule.py" />
-        <option value="$PROJECT_DIR$/miscellaneous/direxample.py" />
-        <option value="$PROJECT_DIR$/Basics/programs/basicprograms/modulus.py" />
-        <option value="$PROJECT_DIR$/Basics/operators/identity_membership.py" />
-        <option value="$PROJECT_DIR$/Basics/programs/basicprograms/areaofcircle.py" />
-        <option value="$PROJECT_DIR$/Basics/programs/basicprograms/swap.py" />
-        <option value="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" />
-        <option value="$PROJECT_DIR$/Basics/branching/oddoreven.py" />
-        <option value="$PROJECT_DIR$/Basics/branching/ifelse.py" />
-        <option value="$PROJECT_DIR$/Basics/branching/simpleif.py" />
-        <option value="$PROJECT_DIR$/Basics/branching/andoreg.py" />
-        <option value="$PROJECT_DIR$/Basics/branching/grades.py" />
-        <option value="$PROJECT_DIR$/notes/namespace.txt" />
-        <option value="$PROJECT_DIR$/notes/tools.txt" />
-        <option value="$PROJECT_DIR$/notes/shortcuts.txt" />
-        <option value="$PROJECT_DIR$/classex/scopes.py" />
-        <option value="$PROJECT_DIR$/classex/local_nonlocal.py" />
-        <option value="$PROJECT_DIR$/classex/scopes1.py" />
-        <option value="$PROJECT_DIR$/miscellaneous/selfex.py" />
-        <option value="$PROJECT_DIR$/classex/initex.py" />
-        <option value="$PROJECT_DIR$/classex/selfex.py" />
-        <option value="$PROJECT_DIR$/Basics/functions/modules/utils.py" />
-        <option value="$PROJECT_DIR$/Basics/functions/modules/run.py" />
-        <option value="$PROJECT_DIR$/classex/run_Singleunderscore.py" />
-        <option value="$PROJECT_DIR$/classex/single_.py" />
-        <option value="$PROJECT_DIR$/classex/__/test.py" />
-        <option value="$PROJECT_DIR$/classex/__/base.py" />
-        <option value="$PROJECT_DIR$/classex/__/derived.py" />
-        <option value="$PROJECT_DIR$/classex/class_intro/instance_obj.py" />
-        <option value="$PROJECT_DIR$/classex/methods/note.txt" />
-        <option value="$PROJECT_DIR$/miscellaneous/del_statement.py" />
-        <option value="$PROJECT_DIR$/classex/init/initex.py" />
-        <option value="$PROJECT_DIR$/classex/function_decorator/note.txt" />
-        <option value="$PROJECT_DIR$/classex/function_decorator/not.txt" />
         <option value="$PROJECT_DIR$/classex/class_intro/decorator_methods.py" />
         <option value="$PROJECT_DIR$/classex/class_instance_vars.py" />
         <option value="$PROJECT_DIR$/classex/class_instance_vars1.py" />
@@ -239,12 +222,47 @@
         <option value="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/run.py" />
         <option value="$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py" />
         <option value="$PROJECT_DIR$/classex/inheritance/note.txt" />
+        <option value="$PROJECT_DIR$/Basics/list/delete.py" />
+        <option value="$PROJECT_DIR$/Basics/list/listEg.py" />
+        <option value="$PROJECT_DIR$/Basics/list/sum.py" />
+        <option value="$PROJECT_DIR$/Basics/list/nested_list_comprehension.py" />
+        <option value="$PROJECT_DIR$/Basics/list/list_as_stack.py" />
+        <option value="$PROJECT_DIR$/Basics/list/list_as_queue.py" />
+        <option value="$PROJECT_DIR$/Basics/list/ex_comprehension.py" />
+        <option value="$PROJECT_DIR$/miscellaneous/ffaefaef.py" />
+        <option value="$PROJECT_DIR$/zip/zip_ex.py" />
+        <option value="$PROJECT_DIR$/zip/listwithzip.py" />
+        <option value="$PROJECT_DIR$/Basics/list/list_doubles.py" />
+        <option value="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" />
+        <option value="$PROJECT_DIR$/Basics/list/read.txt" />
+        <option value="$PROJECT_DIR$/Basics/sets/setex.py" />
+        <option value="$PROJECT_DIR$/Basics/sets/ex_prog.py" />
+        <option value="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" />
+        <option value="$PROJECT_DIR$/Basics/dictionary/dictex.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/defaultarg.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py" />
+        <option value="$PROJECT_DIR$/Basics/file_operations/print2console.py" />
+        <option value="$PROJECT_DIR$/Basics/loops/for/note.txt" />
+        <option value="$PROJECT_DIR$/Basics/loops/iterators.py" />
+        <option value="$PROJECT_DIR$/Basics/loops/iterator1.py" />
+        <option value="$PROJECT_DIR$/Basics/programs/loopprograms/reversesimple.py" />
+        <option value="$PROJECT_DIR$/Basics/loops/generator/exgenerator.py" />
+        <option value="$PROJECT_DIR$/Basics/loops/generator/generatesq.py" />
+        <option value="$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/modules/call_function.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/run_calc.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/calculator.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/args.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/modules/utils.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/modules/run.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="37" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1376" />
     <option name="height" value="788" />
   </component>
@@ -254,6 +272,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,19 +283,25 @@
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="classex" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="classex" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,11 +309,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspace\pythontutorial\Basics\functions" />
+      <recent name="G:\workspace\pythontutorial\Basics\loops\iterator" />
       <recent name="G:\workspace\pythontutorial\classex\function_decorator" />
       <recent name="$PROJECT_DIR$/classex/class_intro" />
       <recent name="$PROJECT_DIR$/classex/_and__" />
-      <recent name="$PROJECT_DIR$/classex" />
-      <recent name="C:\Users\auxouser\PycharmProjects\demo\Basics\programs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.balance">
+  <component name="RunManager" selected="Python.lambdaex1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="balance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="args" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,11 +358,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classex/inheritance/multipleinheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/functions/args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_instance_vars1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lambdaex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/functions/lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classex/class_instance_vars1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,7 +392,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="patterns" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lambdaex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,32 +400,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/programs/loopprograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/functions/lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/programs/loopprograms/patterns.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,11 +421,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classex/inheritance/singleinheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/functions/modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classex/inheritance/singleinheritance/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/functions/modules/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/functions/modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/functions/modules/utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -518,19 +543,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.class_instance_vars1" />
-      <item itemvalue="Python.patterns" />
+      <item itemvalue="Python.args" />
       <item itemvalue="Python.run" />
-      <item itemvalue="Python.run (1)" />
-      <item itemvalue="Python.balance" />
+      <item itemvalue="Python.utils" />
+      <item itemvalue="Python.lambdaex" />
+      <item itemvalue="Python.lambdaex1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.balance" />
-        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.lambdaex1" />
+        <item itemvalue="Python.lambdaex" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.patterns" />
-        <item itemvalue="Python.class_instance_vars1" />
+        <item itemvalue="Python.utils" />
+        <item itemvalue="Python.args" />
       </list>
     </recent_temporary>
   </component>
@@ -559,13 +584,13 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14434524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1436012" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41571194" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990981" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41571194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -631,271 +656,41 @@
           <line>22</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basics/list/listEg.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basics/loops/iterator/iterator1.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/branching/simpleif.py">
+    <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="289">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/branching/oddoreven.py">
+    <entry file="file://$PROJECT_DIR$/classex/inheritance/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="153">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/branching/ifelse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/calculator.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/defaultarg.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/functionsarg.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/programs/miscellaneous/oddoreven.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/programs/loopprograms/sumofnos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/listEg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/nested_list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/heterogeneous.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/programs/miscellaneous/oddoreven1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/namespace.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/tools.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/shortcuts.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/scopes1.py" />
-    <entry file="file://$PROJECT_DIR$/miscellaneous/direxample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/modules/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/modules/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/_/single_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/__/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/__/derived.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/_/run_Singleunderscore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/dictionary/dictex.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/listwithdiffdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/listfunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/function_decorator/note.txt" />
-    <entry file="file://$PROJECT_DIR$/classex/init/initex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_intro/instance_obj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/miscellaneous/del_statement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_intro/local_nonlocal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_intro/scopes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_intro/selfex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/function_decorator/not.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/function_decorator/decorator_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <marker date="1545070062062" expanded="true" signature="17:22" ph="..." />
-            <marker date="1545070062062" expanded="true" signature="301:365" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_instance_vars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_instance_vars1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/programs/loopprograms/reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/inheritance/note.txt.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/methods/note.txt">
+    <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/banka.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/urls.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/programs/loopprograms/patterns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classex/class_intro/initex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -906,62 +701,314 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calsqr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <marker date="1545156461239" expanded="true" signature="37:42" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calcube.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <marker date="1545156461179" expanded="true" signature="121:126" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/run.py">
+    <entry file="file://$PROJECT_DIR$/classex/class_intro/initex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#65#0" expanded="true" />
-            <marker date="1545156461290" expanded="true" signature="179:184" ph="..." />
-            <marker date="1545156461290" expanded="true" signature="203:208" ph="..." />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/banka.py">
+    <entry file="file://$PROJECT_DIR$/Basics/urls.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <marker date="1545156287991" expanded="true" signature="12:17" ph="..." />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py">
+    <entry file="file://$PROJECT_DIR$/Basics/list/heterogeneous.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classex/inheritance/note.txt">
+    <entry file="file://$PROJECT_DIR$/Basics/list/list_as_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/list_as_queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/tuples/words.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classex/__/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscellaneous/ffaefaef.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zip/zip_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zip/listwithzip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/tuples/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Basics/sets/setex.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/tuples/tuple_check_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/listtest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/sets/ex_prog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/ex_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/listfunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/listEg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/list_doubles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="45" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/dictionary/dictex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/nested_list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/listwithdiffdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/file_operations/print2console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/for/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/iterator/iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/iterator/iterator1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/programs/loopprograms/reversesimple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/exgenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/generatesq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/listreduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/read.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/run_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1545797908147" expanded="true" signature="139:160" ph="..." />
+            <marker date="1545797908147" expanded="true" signature="158:159" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/functionsarg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/defaultarg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/modules/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/modules/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>

@@ -6,8 +6,8 @@ student =	{
     14:"sddd"
 }
 print(student)
-name=student["name"]
-print(name)
+studname=student["name"]
+print(studname)
 
 str=student.get("place")
 print(str)

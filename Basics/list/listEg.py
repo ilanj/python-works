@@ -3,13 +3,14 @@ nos=[]
 rev=[]
 for i in range(1,5):
     #nos.append(eval(input("enter any input")))
-    nos.append(random.randint(20,99))
+    nos.append(random.randint(10,99))
 
-len=len(nos)
+l=len(nos)
+
 print(nos)
-print(nos[:])
-print(len)
-for i in range(0,len):
+print(nos[3:4])
+print(l)
+for i in range(l):
     print(nos[i])
 print(nos[1:3])
 print(nos)

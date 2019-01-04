@@ -2,7 +2,7 @@ from classex.inheritance.single_multilevel_inheritance.calsqr import Calculate
 
 
 class CalCube(Calculate):
-    name="ila"
+    name="base2_ila"
     def __init__(self):
         print("i am initialized in CalCube and calculating cube")
 

@@ -2,9 +2,9 @@ from classex.__.base import Base
 
 
 class Derived(Base):
-    a = "i am a"
-    _b = "i am b"
-    __c = "i am c"
+    a = "i am derived a"
+    _b = "i am derived b"
+    __c = "i am derived c"
     def print_values(self):
       print()
 

@@ -1,5 +1,5 @@
 try:
-    print(25/0)
+    print(25/3)
 except OSError as e:
     print(e)
 except Exception as e:

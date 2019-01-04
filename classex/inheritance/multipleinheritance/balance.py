@@ -5,7 +5,7 @@ from classex.inheritance.multipleinheritance.bankb import BankB
 class Balance(BankB,BankA): #in both parents interest is present as instance variable, so class name mentioned first will shadow other classes. here interest from classb is taken
 
     def __init__(self):
-        print(" i am from Balance")
+        print(" i am from Dericed")
         BankA.__init__(self)
         BankB.__init__(self)
 

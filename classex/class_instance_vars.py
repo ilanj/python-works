@@ -5,3 +5,4 @@ class Dog:
         self.name = name    # instance variable unique to each instance
 d = Dog('Fido')
 print(d.kind)
+print(d.name)

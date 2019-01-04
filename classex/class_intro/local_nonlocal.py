@@ -1,10 +1,15 @@
+"""
+1.this nonlocal will work only if it has binding(local var outside this function) and cant be initialized at same line
+non local variables are for nested methods
+"""
 def custom_print():
+    name=name="i am binding for non local variable"
     def local_print():
         name="i am local"
         print("inside local ",name)
 
     def nonlocal_print():
-        nonlocal  name #this nonlocal will work only if it has binding(local var outside this function) and cant be initialized at same line
+        nonlocal  name
         name="i am nonlocal"
         print("inside non local ",name)
 
@@ -12,13 +17,15 @@ def custom_print():
         global name
         name="i am global"
         print("inside global ",name)
-    name="i am local name"
+    print("name inside method-------------",name)
     local_print()
     nonlocal_print()
-    global_print()
-    print(name)
+    print("name inside method-------------",name)
 
-name="i am local"
-print(name)
+
+    global_print()
+
+#name="i am outside class"
+#print(name)
 custom_print()
 print(name)

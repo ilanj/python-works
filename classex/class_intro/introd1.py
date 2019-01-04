@@ -13,5 +13,8 @@ class Intro:
         print(no)
 
 
+
 obj=Intro()
 obj.b()
+print(obj.no)
+print(obj.getname())

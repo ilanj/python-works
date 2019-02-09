@@ -1,4 +1,5 @@
 class BankA:
+    test="test in bankA"
     def __init__(self):
         self.balancea=150
         self.interest=11.3

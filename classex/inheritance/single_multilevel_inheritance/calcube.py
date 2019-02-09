@@ -9,6 +9,7 @@ class CalCube(Calculate):
     def cube(self,n):
         return n**3;
 
-c=CalCube()
-print(c.cube(3))
-print(c.square(3))
+# c=CalCube()
+# print(c.cube(3))
+# print(c.square(3))
+# print(c.name)

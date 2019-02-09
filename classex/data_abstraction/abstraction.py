@@ -1,12 +1,16 @@
 from abc import ABC,abstractmethod
 class BaseEx(ABC):
     @abstractmethod
-    def print_message(self):
+    def roi(self):
         pass
 
-class DerivedEx(BaseEx):
-    def print_message(self):
-        print(" i am in derived class")
+class IndianBank(BaseEx):
+    def roi(self):
+        return 10.58
 
-obj=DerivedEx()
-obj.print_message()
+class SBI(BaseEx):
+    def roi(self):
+        return 10.99
+
+obj=SBI()
+print(obj.roi())

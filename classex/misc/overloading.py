@@ -4,4 +4,4 @@ def print_message(a):
 def print_message(a,b):# latest defined function, so only this will be called
     print("second function")
 
-print_message("fdd","ded")
+print_message(56,78)

@@ -1,3 +1,4 @@
+""" accessing a class private data outside is called encapsulation"""
 class Data:
     name="ila"
     _id=36

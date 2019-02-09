@@ -10,7 +10,7 @@ class Test:
 
     def __name1(self):
         print(" name2")
-
+a=100
 o=Test()
 print(dir(o))#to check mangling
 print(o._Test__c)# mangling

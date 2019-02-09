@@ -10,9 +10,7 @@ class Derived(Base):
 
 obj=Derived()
 print(" %s  %s  "%(obj.a,obj._b)) # and _b are overrided, but u cannot find
-print(obj._Base__c)
-print(obj._Derived__c)# this is the usage of double undercore
-print(dir(obj))
-print(obj.print_values())
 
-obj.x=15
+print(dir(obj))
+print(obj._Derived__c)
+print(obj._Base__c)

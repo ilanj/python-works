@@ -1,9 +1,13 @@
 import json
 
-f=open("C:\\Users\\auxouser\\Desktop\\test\\ilanchezhian.txt","w")
+f=open("G:\workspace\pythontutorial\writefile.txt","w")
 # f.write("qefefef\n")
 # f.write("frfrfrf")
-nos=[34,56,78,76]
-json.dump(['foo', {'bar': ('baz', None, 1.0, 2)}],f)
+data="""We can’t connect to the server at pythonspot.com.
 
-f.close()
+If that address is correct, here are three other things you can try:
+
+    Try again later.
+    Check your network connection.
+    If you are connected but behind a firewall, check that Firefox has permission to access the Web."""
+f.write(data)

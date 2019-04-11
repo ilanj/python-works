@@ -1,4 +1,4 @@
-org="abba"
+org="abbad"
 rev="".join(reversed(org))
 print(rev)
 

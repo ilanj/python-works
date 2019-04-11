@@ -18,5 +18,5 @@ data['people'].append({
     'from': 'Alabama'
 })
 
-with open('C:\\Users\\auxouser\\Desktop\\test\\ilanchezhian_json.txt', 'w') as outfile:
+with open('G:\workspace\pythontutorial\json_ex.txt', 'w') as outfile:
     json.dump(data, outfile)

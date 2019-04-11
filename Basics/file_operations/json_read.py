@@ -1,6 +1,6 @@
 import json
 
-with open('C:\\Users\\auxouser\\Desktop\\test\\ilanchezhian_json.txt') as json_file:
+with open('G:\workspace\pythontutorial\json_ex.txt') as json_file:
     data = dict(json.load(json_file))
     print(data)
 for p in data['people']:

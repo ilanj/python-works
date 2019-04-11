@@ -19,6 +19,6 @@ txtfile=txtfile.read()
 print(txtfile)
 print(txtfile.splitlines())
 
-print(name.casefold())
+print(txtfile.casefold())
 
 

@@ -1,0 +1,3 @@
+iloc:
+accepts only integers and second index is exclusive. eg: [:,0:2] returns first 2 columns
+[:,:-1]- here -1 means last column. as it is exclusive, last before column will be displayed

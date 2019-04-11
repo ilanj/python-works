@@ -1,2 +1,3 @@
-for i in range(0,10,2):
-    print(i)
+a=25
+b=98
+print(a," ",b)

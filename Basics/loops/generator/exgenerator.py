@@ -3,7 +3,7 @@ def reverse(data):
         yield data[index]#replace with rerurn and check
 rev=''
 ch=reverse("haai")
-print("list=",(ch))
+print("list=",list(ch))
 
 for each in list(ch):
     print(each)

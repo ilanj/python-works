@@ -1,5 +1,5 @@
-from classex.inheritance.multipleinheritance.banka import BankA
-from classex.inheritance.multipleinheritance.bankb import BankB
+from oops.inheritance.multipleinheritance.banka import BankA
+from oops.inheritance.multipleinheritance.bankb import BankB
 
 
 class Balance(BankA,BankB): #in both parents interest is present as instance variable, so class name mentioned first will shadow other classes. here interest from classb is taken

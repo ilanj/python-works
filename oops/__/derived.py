@@ -1,4 +1,4 @@
-from classex.__.base import Base
+from oops.__.base import Base
 
 
 class Derived(Base):

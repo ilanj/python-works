@@ -1,4 +1,4 @@
-from classex._.single_ import *
+from oops._.single_ import *
 
 obj=Test()
 obj.name()

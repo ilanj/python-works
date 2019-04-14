@@ -1,5 +1,5 @@
-from classex.inheritance.practice.a import *
-from classex.inheritance.practice.b import BBase
+from oops.inheritance.practice.a import *
+from oops.inheritance.practice.b import BBase
 
 
 class CDerived(BBase,ABase):

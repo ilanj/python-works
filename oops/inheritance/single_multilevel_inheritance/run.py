@@ -1,5 +1,5 @@
-from classex.inheritance.single_multilevel_inheritance.calcube import CalCube
-from classex.inheritance.single_multilevel_inheritance.calsqr import Calculate
+from oops.inheritance.single_multilevel_inheritance.calcube import CalCube
+from oops.inheritance.single_multilevel_inheritance.calsqr import Calculate
 
 
 class Run(CalCube):

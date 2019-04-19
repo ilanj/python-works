@@ -6,14 +6,11 @@ app=Flask(__name__)
 @app.route("/")
 def index():
     status=True
-    data = {"faxCoversheet": status, "name": "ila",
+    data = {"faxCoversheet": status, "name": "concord",
         "place": "chennai",
         "id": 36,
-        12: 25,
-        14: "sddd"
             }
     data_json = json.dumps(data)
-
     n=6
     if n%2 is 0:
         return data_json

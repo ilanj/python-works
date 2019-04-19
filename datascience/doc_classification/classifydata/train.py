@@ -1,9 +1,17 @@
 import numpy as np
 from sklearn.datasets import load_files
-
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import classification_report, accuracy_score
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.svm import SVC
+from sklearn.pipeline import Pipeline
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.model_selection import cross_val_score
 from datascience.doc_classification.classifydata.Helper import Test
 
 DATA_DIR = "./dataset_5classes/"
+# DATA_DIR = "./ocr_samples/"
 
 data = load_files(DATA_DIR, encoding="utf-8", decode_error="replace")
 print("the classes are",data.target_names)
@@ -14,18 +22,15 @@ count=metadata[1]
 names=data.target_names
 print(dict(zip(names,count)))
 for i in range(len(labels)):
-    print(labels[i],names[i],labels[i])
+    print(labels[i],names[i],count[i])
 
-from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(data.data, data.target)
+X_train, X_test, y_train, y_test = train_test_split(data.data, data.target)#test_size=0.50
 print("X_test.shape=",len(X_test))
 print("Y_test.shape=",y_test.shape)
 print("X_train.shape=",len(X_train))
 print("y_train.shape=",y_train.shape)
 check=dict(zip(X_train,y_train))
-print(list(t[:80] for t in X_train[:10]))
 
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 vectorizer = TfidfVectorizer(stop_words="english", max_features=1000, decode_error="ignore")
 vectorizer.fit(X_train)
@@ -35,7 +40,6 @@ print("keywords size=",len(keywords))
 X_train_vectorized = vectorizer.transform(X_train)
 
 #naivebayes
-from sklearn.naive_bayes import MultinomialNB
 cls = MultinomialNB()
 cls.fit(vectorizer.transform(X_train), y_train)
 
@@ -44,43 +48,21 @@ print("type(vectorizer.transform(X_test))=",type(vectorizer.transform(X_test)))
 testobj=Test()
 test_doc=testobj.data_for_a_document()
 prediction_for_a_doc=cls.predict(vectorizer.transform(test_doc))
+print("pred for a doc ",prediction_for_a_doc)
 
 
-from sklearn.metrics import classification_report, accuracy_score
 y_pred = cls.predict(vectorizer.transform(X_test))
-print(accuracy_score(y_test, y_pred))
-print(classification_report(y_test, y_pred))
+print("accuracy with naive bayes = ",accuracy_score(y_test, y_pred))
+# print(classification_report(y_test, y_pred))
 
-from sklearn.linear_model import SGDClassifier
-from sklearn.svm import SVC
-from sklearn.pipeline import Pipeline
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.model_selection import cross_val_score
 
-# start with the classic
-# with either pure counts or tfidf features
-sgd = Pipeline([
-    ("count vectorizer", CountVectorizer(stop_words="english", max_features=3000)),
-    ("sgd", SGDClassifier(loss="modified_huber"))
-])
-sgd_tfidf = Pipeline([
-    ("tfidf_vectorizer", TfidfVectorizer(stop_words="english", max_features=3000)),
-    ("sgd", SGDClassifier(loss="modified_huber"))
-])
 
-svc = Pipeline([
-    ("count_vectorizer", CountVectorizer(stop_words="english", max_features=3000)),
-    ("linear svc", SVC(kernel="linear"))
-])
+
 svc_tfidf = Pipeline([
     ("tfidf_vectorizer", TfidfVectorizer(stop_words="english", max_features=3000)),
-    ("linear svc", SVC(kernel="linear"))
-])
+    ("linear svc", SVC(kernel="linear"))])
 
 all_models = [
-    ("sgd", sgd),
-    ("sgd_tfidf", sgd_tfidf),
-    ("svc", svc),
     ("svc_tfidf", svc_tfidf),
 ]
 

@@ -3,8 +3,12 @@ try:
 except OSError as e:
     print(e)
 
+except EnvironmentError as e:
+    print(e)
+
 except Exception as e:
     print(e)
+
 finally:
     print("this is finally")
 

@@ -1,6 +1,6 @@
 class Test:
     def data_for_a_document(self):
-        path = "G://workspace//pythontutorial//datascience//doc_classification//classifydata//dataset_5classes//tech//"
+        path = "G://workspace//pythontutorial//datascience//doc_classification//classifydata//dataset_5classes//politics//"
         filename = "007.txt"
         f = open(path + filename)
         r = f.read()

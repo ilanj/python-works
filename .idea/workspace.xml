@@ -1,60 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="datascience additions">
-      <change afterPath="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/datatype.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/doc_classification/news20dataset/print_hrlp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/ner_spacy/ner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/ner_spacy/ner3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/ner_spacy/ner4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datascience/ner_spacy/ner5.py" afterDir="false" />
+    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="dc_review">
+      <change afterPath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/sqldb/CreateTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_operations/deletions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/multiple_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth/Littleshino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buffer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/_/run_Singleunderscore.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/_/run_Singleunderscore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/_/single_.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/_/single_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/__/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/__/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/__/derived.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/__/derived.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_instance_vars.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_instance_vars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_instance_vars1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_instance_vars1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/checkscope.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/checkscope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/instance_obj.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/instance_obj.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/introd.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/introd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/introd1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/introd1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/local_nonlocal.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/local_nonlocal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/scopes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/class_intro/selfex.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/selfex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/constructor/constypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/constructor/constypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/data_abstraction/abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/data_abstraction/abstraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/data_abstraction/data_abs1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/data_abstraction/data_abs1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/data_abstraction/data_abs2.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/data_abstraction/data_abs2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/encapsulation/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/encapsulation/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/encapsulation/encaps2.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/encapsulation/encaps2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/function_decorator/decorator_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/function_decorator/decorator_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/function_decorator/not.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/function_decorator/not.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/multipleinheritance/balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/balance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/multipleinheritance/banka.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/banka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/multipleinheritance/bankb.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/bankb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/practice/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/practice/a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/practice/b.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/practice/b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/practice/derived.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/practice/derived.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calcube.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/calcube.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/calsqr.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/calsqr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/inheritance/single_multilevel_inheritance/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/init/initex.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/init/initex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/methods/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/methods/note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/misc/overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/misc/overloading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/misc/pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/misc/pass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/overriding/over_ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/overriding/over_ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classex/overriding/over_ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/overriding/over_ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/bufferlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requeue/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/buffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file_operations/json_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/json_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file_operations/json_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/json_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file_operations/pickle_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/pickle_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file_operations/print2console.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/print2console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file_operations/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file_operations/write.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/checkis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/collections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/collections.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listEg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/reverse_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip/zip_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip/zip_ex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +46,7 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="3" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="5" />
           <entry key="project.open.time.26" value="7" />
@@ -80,18 +54,19 @@
           <entry key="project.open.time.28" value="5" />
           <entry key="project.open.time.29" value="5" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.30" value="5" />
           <entry key="project.open.time.31" value="6" />
           <entry key="project.open.time.32" value="2" />
-          <entry key="project.open.time.33" value="4" />
+          <entry key="project.open.time.33" value="5" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="3" />
           <entry key="project.open.time.36" value="3" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.38" value="3" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
@@ -105,7 +80,7 @@
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.87" value="1" />
-          <entry key="project.opened" value="82" />
+          <entry key="project.opened" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -113,28 +88,29 @@
           <entry key="csv" value="8" />
           <entry key="ipynb" value="3" />
           <entry key="pkl" value="1" />
-          <entry key="py" value="519" />
-          <entry key="txt" value="45" />
+          <entry key="py" value="635" />
+          <entry key="testfile" value="1" />
+          <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="3" />
-          <entry key="PLAIN_TEXT" value="54" />
-          <entry key="Python" value="519" />
+          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="Python" value="635" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="105" />
-          <entry key="py" value="30621" />
-          <entry key="txt" value="1087" />
+          <entry key="dummy" value="128" />
+          <entry key="py" value="33238" />
+          <entry key="txt" value="1106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1192" />
-          <entry key="Python" value="30621" />
+          <entry key="PLAIN_TEXT" value="1234" />
+          <entry key="Python" value="33238" />
         </counts>
       </usages-collector>
     </session>
@@ -142,71 +118,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
+        <entry file="file://$PROJECT_DIR$/django/intro.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_operations/print2console.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_operations/deletions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
-                <marker date="1555218403676" expanded="true" signature="63:68" ph="..." />
+                <marker date="1555663365819" expanded="true" signature="28:29" ph="..." />
+                <marker date="1555663365819" expanded="true" signature="173:323" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/sqldb/ConnectDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
+        <entry file="file://$PROJECT_DIR$/db/sqldb/CreateTable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <marker date="1555226352715" expanded="true" signature="27:521" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oops/class_intro/instance_obj.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oops/class_intro/introd.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/format.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/io.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/print.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/reverse.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/slice.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/buffer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="288">
+              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -230,6 +181,7 @@
       <find>from</find>
       <find>pyt</find>
       <find>\</find>
+      <find>stop</find>
     </findStrings>
     <replaceStrings>
       <replace>//</replace>
@@ -244,37 +196,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datascience/pandas/split_train_test.py" />
-        <option value="$PROJECT_DIR$/datascience/pandas/dates_times.py" />
-        <option value="$PROJECT_DIR$/datascience/pandas/remove_duplication.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/np1.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/np2.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/np3.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/np3_access_del_insert.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/slicing.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/sort.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/booleanindexing.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/manipulating_ndarrays.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/arithematic.py" />
-        <option value="$PROJECT_DIR$/datascience/numpy/assignment.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/predictsquare.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/predictsquare1.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/boston_data_pred.py" />
-        <option value="$PROJECT_DIR$/datascience/pandas/note.txt" />
-        <option value="$PROJECT_DIR$/datascience/pandas/dummyvar.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/input.txt" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/assignment2.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/polydata.txt" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/assignment1.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/ndarraytopoly.py" />
-        <option value="$PROJECT_DIR$/datascience/linear_regression/polyregression.py" />
         <option value="$PROJECT_DIR$/datascience/linear_regression/lasso.py" />
         <option value="$PROJECT_DIR$/datascience/sklearn/dectree.py" />
         <option value="$PROJECT_DIR$/datascience/sklearn/decisiontree/dectree_data.txt" />
         <option value="$PROJECT_DIR$/datascience/sklearn/decisiontree/dctree.py" />
         <option value="$PROJECT_DIR$/datascience/sklearn/decisiontree/titanic_survival.py" />
         <option value="$PROJECT_DIR$/datascience/sklearn/naivebayes/note.txt" />
-        <option value="$PROJECT_DIR$/flask/hw.py" />
         <option value="$PROJECT_DIR$/buffer/__init__.py" />
         <option value="$PROJECT_DIR$/datascience/doc_classification/news20dataset/traindocs.py" />
         <option value="$PROJECT_DIR$/Basics/list/ex_comprehension.py" />
@@ -284,24 +211,49 @@
         <option value="$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py" />
         <option value="$PROJECT_DIR$/oops/class_intro/checkscope.py" />
         <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/dataset_5classes/Helper.py" />
-        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
         <option value="$PROJECT_DIR$/datascience/sklearn/ner_spacy/Ner.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/ner3.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/ner4.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/ner5.py" />
-        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/identify.py" />
-        <option value="$PROJECT_DIR$/Basics/strings/buffer.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" />
         <option value="$PROJECT_DIR$/Basics/strings/regex/aadhar.py" />
         <option value="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" />
+        <option value="$PROJECT_DIR$/buffer/checkis.py" />
+        <option value="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" />
+        <option value="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" />
+        <option value="$PROJECT_DIR$/Basics/functions/args.py" />
+        <option value="$PROJECT_DIR$/Basics/io/print.py" />
+        <option value="$PROJECT_DIR$/Basics/list/listEg.py" />
+        <option value="$PROJECT_DIR$/Basics/list/collections.txt" />
+        <option value="$PROJECT_DIR$/Basics/strings/buffer.py" />
+        <option value="$PROJECT_DIR$/Basics/strings/reverse.py" />
+        <option value="$PROJECT_DIR$/zip/listwithzip.py" />
+        <option value="$PROJECT_DIR$/zip/zip_ex.py" />
+        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/writefile.txt" />
+        <option value="$PROJECT_DIR$/hackerearth/littleshin02.py" />
+        <option value="$PROJECT_DIR$/hackerearth/littleshino2.py" />
+        <option value="$PROJECT_DIR$/hackerearth/Littleshino.py" />
+        <option value="$PROJECT_DIR$/hackerearth/littleshino1.py" />
+        <option value="$PROJECT_DIR$/hackerearth/littleshino3.py" />
+        <option value="$PROJECT_DIR$/hackerearth/littleshino5.py" />
+        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" />
+        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
+        <option value="$PROJECT_DIR$/flask/hw.py" />
+        <option value="$PROJECT_DIR$/flask/multiple_api.py" />
+        <option value="$PROJECT_DIR$/file_operations/read.py" />
+        <option value="$PROJECT_DIR$/file_operations/deletions.py" />
+        <option value="$PROJECT_DIR$/db/sql/connectdb.py" />
+        <option value="$PROJECT_DIR$/db/sqldb/connectdb.py" />
+        <option value="$PROJECT_DIR$/db/sqldb/ConnectDB.py" />
+        <option value="$PROJECT_DIR$/db/sqldb/CreateTable.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="y" value="2" />
-    <option name="width" value="1378" />
+    <option name="width" value="1377" />
     <option name="height" value="733" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -320,20 +272,13 @@
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="sqldb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,13 +292,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workspace\pythontutorial\flask" />
       <recent name="G:\workspace\pythontutorial\Basics\io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspace\pythontutorial" />
       <recent name="G:\workspace\pythontutorial\datascience" />
       <recent name="G:\workspace\pythontutorial\datascience\doc_classification\classifydata" />
       <recent name="G:\workspace\pythontutorial\datascience\sklearn" />
-      <recent name="G:\workspace\pythontutorial" />
       <recent name="G:\workspace\pythontutorial\Basics\functions" />
     </key>
   </component>
@@ -369,8 +315,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Aadhar">
-    <configuration name="Aadhar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CreateTable">
+    <configuration name="ConnectDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -378,11 +324,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/strings/regex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sqldb" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/sqldb/ConnectDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -391,7 +337,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NER_Entity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CreateTable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,11 +345,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/ner_spacy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sqldb" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" />
+      <option name="SCRIPT_NAME" value="G:\workspace\pythontutorial\db\sqldb\TableOperations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,7 +379,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buffer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="connectdb (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -441,11 +387,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sqldb" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/strings/buffer.py" />
+      <option name="SCRIPT_NAME" value="G:\workspace\pythontutorial\db\sqldb\ConnectDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,7 +400,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="identify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="connectdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -462,11 +408,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/ner_spacy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sql" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="G:\workspace\pythontutorial\datascience\ner_spacy\NER_Entity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/sql/connectdb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,7 +421,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ner5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="deletions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,11 +429,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/ner_spacy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datascience/ner_spacy/ner5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_operations/deletions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -584,19 +530,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.identify" />
-      <item itemvalue="Python.ner5" />
-      <item itemvalue="Python.NER_Entity" />
-      <item itemvalue="Python.buffer" />
-      <item itemvalue="Python.Aadhar" />
+      <item itemvalue="Python.deletions" />
+      <item itemvalue="Python.connectdb" />
+      <item itemvalue="Python.connectdb (1)" />
+      <item itemvalue="Python.ConnectDB" />
+      <item itemvalue="Python.CreateTable" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aadhar" />
-        <item itemvalue="Python.NER_Entity" />
-        <item itemvalue="Python.buffer" />
-        <item itemvalue="Python.identify" />
-        <item itemvalue="Python.ner5" />
+        <item itemvalue="Python.CreateTable" />
+        <item itemvalue="Python.ConnectDB" />
+        <item itemvalue="Python.connectdb (1)" />
+        <item itemvalue="Python.connectdb" />
+        <item itemvalue="Python.deletions" />
       </list>
     </recent_temporary>
   </component>
@@ -660,24 +606,32 @@
       <option name="project" value="LOCAL" />
       <updated>1554964454922</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dc_review">
+      <created>1555230322404</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555230322404</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1378" height="733" extended-state="1" />
+    <frame x="-7" y="2" width="1377" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16865672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16803585" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32554257" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47078463" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37833333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.485" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32786885" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32554257" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.325" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -697,7 +651,8 @@
     <MESSAGE value="practice programs" />
     <MESSAGE value="PRACTICE PROGRAMS" />
     <MESSAGE value="datascience additions" />
-    <option name="LAST_COMMIT_MESSAGE" value="datascience additions" />
+    <MESSAGE value="dc_review" />
+    <option name="LAST_COMMIT_MESSAGE" value="dc_review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -719,7 +674,7 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Basics/list/listEg.py</url>
-          <line>18</line>
+          <line>19</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
@@ -793,12 +748,12 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basics/file_operations/json_read.py</url>
+          <url>file://$PROJECT_DIR$/file_operations/json_read.py</url>
           <line>5</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Basics/file_operations/json_read.py</url>
+          <url>file://$PROJECT_DIR$/file_operations/json_read.py</url>
           <line>3</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
@@ -943,24 +898,139 @@
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py</url>
           <line>14</line>
           <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/Littleshino.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/Littleshino.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/Littleshino.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/Littleshino.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/littleshino3.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/littleshino3.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/littleshino3.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hackerearth/littleshino3.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/ConnectDB.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/ConnectDB.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="158" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -976,310 +1046,288 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/list/bufferlist.py">
+    <entry file="file://$PROJECT_DIR$/programs/loopprograms/squareroot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/heterogeneous.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/list_as_queue.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/list_as_stack.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/tuples/words.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/file_operations/json_write.py">
+    <entry file="file://$PROJECT_DIR$/zip/listwithzip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="20" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zip/zip_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/exgenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/iterator/iterator1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/bufferlist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/ex_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/listEg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/generatesq.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerearth/littleshino3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/loopprograms/hcf.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerearth/Littleshino.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+          <folding>
+            <marker date="1555392318810" expanded="true" signature="929:934" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerearth/littleshino2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/hw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/file_operations/write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="55" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/arithematic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/assignment.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/booleanindexing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-428" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/manipulating_ndarrays.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/np1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/np2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-326">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/np3_access_del_insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-802" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/slicing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-292" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/numpy/sort.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/assignment1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/boston_data_pred.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="99" column="59" selection-start-line="99" selection-start-column="59" selection-end-line="99" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/lasso.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/ndarraytopoly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/polydata.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/polyregression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/predictsquare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/sklearn/linear_regression/predictsquare1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-479">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/news20dataset/print_hrlp.py">
+    <entry file="file://$PROJECT_DIR$/flask/multiple_api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <marker date="1555610295289" expanded="true" signature="99:115" ph="..." />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/writefile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/file_operations/read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/class_intro/checkscope.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/ner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/ner3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/ner4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="646">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1684184486/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8993">
-          <caret line="529" column="4" selection-start-line="529" selection-start-column="4" selection-end-line="529" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/sklearn/model_selection/_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4301">
-          <caret line="275" column="69" selection-start-line="275" selection-start-column="69" selection-end-line="275" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/sklearn/feature_extraction/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13838">
-          <caret line="835" column="8" selection-start-line="835" selection-start-column="8" selection-end-line="835" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/ner5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <marker date="1555165954716" expanded="true" signature="11:12" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/slice.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/reverse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/format.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/buffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/class_intro/instance_obj.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oops/class_intro/introd.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <marker date="1555218403676" expanded="true" signature="63:68" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="120" selection-start-line="2" selection-start-column="120" selection-end-line="2" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="221">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27965">
+          <caret line="1645" selection-start-line="1645" selection-end-line="1645" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_resolver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerearth/littleshino5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/testfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/write.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
-            <marker date="1555226352715" expanded="true" signature="27:521" ph="..." />
+            <marker date="1555660132577" expanded="true" signature="235:236" ph="..." />
+            <marker date="1555660132577" expanded="true" signature="361:362" ph="..." />
+            <marker date="1555660132577" expanded="true" signature="493:689" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/json_write.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/json_read.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/test/Print.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/test/print1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/test/print2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/test/runtimeinput.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/strings/format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/strings/reverse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/strings/reverse_loop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/test/printvar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/io/format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/test/stringprint.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/strings/buffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/strings/io.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/io/print.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerearth/littleshino1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/intro.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/print2console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/deletions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <marker date="1555663365819" expanded="true" signature="28:29" ph="..." />
+            <marker date="1555663365819" expanded="true" signature="173:323" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqldb/ConnectDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqldb/CreateTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
         </state>
       </provider>
     </entry>

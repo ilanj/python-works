@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="dc_review">
-      <change afterPath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/sqldb/CreateTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_operations/deletions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/multiple_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerearth/Littleshino.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerearth/littleshino5.py" afterDir="false" />
+    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="sql">
+      <change afterPath="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/CrudMongo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/app/dist/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/app/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/logger/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/logger/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/module_docker/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file_operations/json_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/json_read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file_operations/json_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/json_write.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file_operations/pickle_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/pickle_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file_operations/print2console.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/print2console.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file_operations/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_operations/read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file_operations/write.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/checkis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/collections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/collections.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listEg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/reverse_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/hw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zip/zip_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip/zip_ex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +40,7 @@
           <entry key="project.open.time.28" value="5" />
           <entry key="project.open.time.29" value="5" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.30" value="5" />
+          <entry key="project.open.time.30" value="6" />
           <entry key="project.open.time.31" value="6" />
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="5" />
@@ -67,10 +53,11 @@
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.46" value="2" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.60" value="1" />
@@ -80,37 +67,41 @@
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.87" value="1" />
-          <entry key="project.opened" value="87" />
+          <entry key="project.opened" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="8" />
+          <entry key="html" value="2" />
           <entry key="ipynb" value="3" />
           <entry key="pkl" value="1" />
-          <entry key="py" value="635" />
+          <entry key="py" value="644" />
           <entry key="testfile" value="1" />
-          <entry key="txt" value="48" />
+          <entry key="txt" value="49" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="2" />
           <entry key="IPNB" value="3" />
-          <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="635" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Python" value="644" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="128" />
-          <entry key="py" value="33238" />
-          <entry key="txt" value="1106" />
+          <entry key="dummy" value="138" />
+          <entry key="py" value="33699" />
+          <entry key="txt" value="1115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1234" />
-          <entry key="Python" value="33238" />
+          <entry key="PLAIN_TEXT" value="1253" />
+          <entry key="Python" value="33699" />
         </counts>
       </usages-collector>
     </session>
@@ -118,46 +109,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django/intro.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file_operations/print2console.py">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file_operations/deletions.py">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/app/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="17">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <marker date="1555663365819" expanded="true" signature="28:29" ph="..." />
-                <marker date="1555663365819" expanded="true" signature="173:323" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/sqldb/ConnectDB.py">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="255">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/app/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="e#45#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/sqldb/CreateTable.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/flask/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+            <state relative-caret-position="298">
+              <caret line="947" column="37" selection-start-line="947" selection-start-column="37" selection-end-line="947" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/logger/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/logger/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding>
+                <element signature="e#38#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask/module_docker/app/dist/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -182,6 +223,7 @@
       <find>pyt</find>
       <find>\</find>
       <find>stop</find>
+      <find>css</find>
     </findStrings>
     <replaceStrings>
       <replace>//</replace>
@@ -196,17 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datascience/linear_regression/lasso.py" />
-        <option value="$PROJECT_DIR$/datascience/sklearn/dectree.py" />
-        <option value="$PROJECT_DIR$/datascience/sklearn/decisiontree/dectree_data.txt" />
-        <option value="$PROJECT_DIR$/datascience/sklearn/decisiontree/dctree.py" />
-        <option value="$PROJECT_DIR$/datascience/sklearn/decisiontree/titanic_survival.py" />
-        <option value="$PROJECT_DIR$/datascience/sklearn/naivebayes/note.txt" />
-        <option value="$PROJECT_DIR$/buffer/__init__.py" />
-        <option value="$PROJECT_DIR$/datascience/doc_classification/news20dataset/traindocs.py" />
-        <option value="$PROJECT_DIR$/Basics/list/ex_comprehension.py" />
-        <option value="$PROJECT_DIR$/Basics/list/bufferlist.py" />
-        <option value="$PROJECT_DIR$/datascience/doc_classification/news20dataset/print_hrlp.py" />
         <option value="$PROJECT_DIR$/datascience/datatype.txt" />
         <option value="$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py" />
         <option value="$PROJECT_DIR$/oops/class_intro/checkscope.py" />
@@ -247,6 +278,17 @@
         <option value="$PROJECT_DIR$/db/sqldb/connectdb.py" />
         <option value="$PROJECT_DIR$/db/sqldb/ConnectDB.py" />
         <option value="$PROJECT_DIR$/db/sqldb/CreateTable.py" />
+        <option value="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" />
+        <option value="$PROJECT_DIR$/flask/CrudMongo.py" />
+        <option value="$PROJECT_DIR$/flask/module_docker/app/dist/404.html" />
+        <option value="$PROJECT_DIR$/flask/module_docker/app/dist/index.html" />
+        <option value="$PROJECT_DIR$/flask/module_docker/app/__init__.py" />
+        <option value="$PROJECT_DIR$/flask/module_docker/logger/__init__.py" />
+        <option value="$PROJECT_DIR$/flask/module_docker/logger/logger.py" />
+        <option value="$PROJECT_DIR$/flask/module_docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/flask/module_docker/index.py" />
+        <option value="$PROJECT_DIR$/flask/module_docker/manage.py" />
+        <option value="$PROJECT_DIR$/flask/module_docker/requirements.txt" />
       </list>
     </option>
   </component>
@@ -272,13 +314,13 @@
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="sqldb" type="462c0819:PsiDirectoryNode" />
+              <item name="flask" type="462c0819:PsiDirectoryNode" />
+              <item name="module_docker" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,7 +357,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CreateTable">
+  <component name="RunManager" selected="Python.index">
     <configuration name="ConnectDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,6 +371,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/sqldb/ConnectDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConnectMongodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/mongodb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,7 +463,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="connectdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -408,32 +471,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sql" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/module_docker" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/sql/connectdb.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="deletions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_operations" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_operations/deletions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/module_docker/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -530,19 +572,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.deletions" />
-      <item itemvalue="Python.connectdb" />
       <item itemvalue="Python.connectdb (1)" />
       <item itemvalue="Python.ConnectDB" />
       <item itemvalue="Python.CreateTable" />
+      <item itemvalue="Python.ConnectMongodb" />
+      <item itemvalue="Python.index" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.ConnectMongodb" />
         <item itemvalue="Python.CreateTable" />
         <item itemvalue="Python.ConnectDB" />
         <item itemvalue="Python.connectdb (1)" />
-        <item itemvalue="Python.connectdb" />
-        <item itemvalue="Python.deletions" />
       </list>
     </recent_temporary>
   </component>
@@ -613,25 +655,31 @@
       <option name="project" value="LOCAL" />
       <updated>1555230322404</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sql">
+      <created>1555675850549</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555675850549</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1377" height="733" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16803585" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833335" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37833333" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37833333" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.485" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32786885" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.325" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36166668" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -652,7 +700,8 @@
     <MESSAGE value="PRACTICE PROGRAMS" />
     <MESSAGE value="datascience additions" />
     <MESSAGE value="dc_review" />
-    <option name="LAST_COMMIT_MESSAGE" value="dc_review" />
+    <MESSAGE value="sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,37 +1047,37 @@
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>23</line>
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>24</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>25</line>
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>27</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>26</line>
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>29</line>
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/db/sqldb/CreateTable.py</url>
+          <url>file://$PROJECT_DIR$/db/sqldb/TableOperations.py</url>
           <line>30</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
@@ -1046,73 +1095,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programs/loopprograms/squareroot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zip/listwithzip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zip/zip_ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/exgenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/loops/iterator/iterator1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/bufferlist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/ex_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/list/listEg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/loops/generator/generatesq.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackerearth/littleshino3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1144,9 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1154,9 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <marker date="1555610295289" expanded="true" signature="99:115" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,9 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <marker date="1555218403676" expanded="true" signature="63:68" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,21 +1195,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/testfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/write.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/file_operations/testfile" />
+    <entry file="file://$PROJECT_DIR$/file_operations/write.py" />
     <entry file="file://$PROJECT_DIR$/file_operations/read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1555660132577" expanded="true" signature="235:236" ph="..." />
-            <marker date="1555660132577" expanded="true" signature="361:362" ph="..." />
-            <marker date="1555660132577" expanded="true" signature="493:689" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1308,26 +1272,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file_operations/deletions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="221">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <marker date="1555663365819" expanded="true" signature="28:29" ph="..." />
-            <marker date="1555663365819" expanded="true" signature="173:323" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/sqldb/ConnectDB.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqldb/TableOperations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="1462">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/sqldb/CreateTable.py">
+    <entry file="file://$PROJECT_DIR$/db/mongodb/ConnectMongodb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/mysql/connector/connection_cext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8925">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/CrudMongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="83" selection-start-column="83" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/app/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#45#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/logger/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/logger/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="e#38#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask/module_docker/app/dist/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="947" column="37" selection-start-line="947" selection-start-column="37" selection-end-line="947" selection-end-column="37" />
         </state>
       </provider>
     </entry>

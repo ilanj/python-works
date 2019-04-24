@@ -1,3 +1,7 @@
+import json
+from json import JSONEncoder
+
+from bson import json_util
 from pymongo import MongoClient
 
 class Connectmongodb:
@@ -13,12 +17,17 @@ class Connectmongodb:
             'tags': ['mongodb', 'database', 'NoSQL'],
             'viewers': 104
         }
-        rec = Connectmongodb.mydatabase['company_names'].insert_one(rec)
+        _id = Connectmongodb.mydatabase['company_names'].insert_one(rec)
+        print('id=', _id.inserted_id)
+
 
     def readdb(self):
         cursor = Connectmongodb.mydatabase['company_names'].find()
         for record in cursor:
             print(record)
+
+
+
 
 
 if __name__ == "__main__":

@@ -3,5 +3,5 @@ import json
 import datetime
 from flask import Flask
 
-# create the flask object
+# create the flask_api object
 app = Flask(__name__)

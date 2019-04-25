@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="flask crud with mongo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/module_docker/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_api/flask_sample/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_api/flask_sample/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_api/flask_sample/crud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask_api/module_docker/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +17,7 @@
         <counts>
           <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.127" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
@@ -46,7 +45,7 @@
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.46" value="2" />
-          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.48" value="2" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.55" value="1" />
@@ -60,7 +59,7 @@
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.87" value="1" />
-          <entry key="project.opened" value="95" />
+          <entry key="project.opened" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,10 +69,10 @@
           <entry key="ipynb" value="3" />
           <entry key="log" value="1" />
           <entry key="pkl" value="1" />
-          <entry key="py" value="651" />
+          <entry key="py" value="654" />
           <entry key="testfile" value="1" />
           <entry key="txt" value="50" />
-          <entry key="yml" value="1" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -81,21 +80,23 @@
           <entry key="HTML" value="2" />
           <entry key="IPNB" value="3" />
           <entry key="PLAIN_TEXT" value="61" />
-          <entry key="Python" value="651" />
-          <entry key="YAML" value="1" />
+          <entry key="Python" value="654" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="149" />
-          <entry key="py" value="34626" />
+          <entry key="py" value="34671" />
           <entry key="txt" value="1142" />
+          <entry key="yml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1291" />
-          <entry key="Python" value="34626" />
+          <entry key="Python" value="34671" />
+          <entry key="YAML" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -103,39 +104,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/index.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="46" column="53" lean-forward="true" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
-              <folding>
-                <element signature="e#45#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/output.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/crud.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="63" column="23" lean-forward="true" selection-start-line="62" selection-end-line="63" selection-end-column="23" />
+            <state relative-caret-position="268">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1556083712618" expanded="true" signature="1371:1372" ph="..." />
+                <marker date="1556134616050" expanded="true" signature="1371:1372" ph="..." />
               </folding>
             </state>
           </provider>
@@ -144,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="11" column="9" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="379">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -154,9 +129,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="255">
               <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -168,7 +182,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="5270">
               <caret line="311" selection-start-line="311" selection-end-line="311" />
             </state>
           </provider>
@@ -177,18 +191,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flask_api/module_docker/manage.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/logger/logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-              <folding>
-                <element signature="e#38#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -221,6 +223,7 @@
       <find>\</find>
       <find>stop</find>
       <find>css</find>
+      <find>vectorizer</find>
     </findStrings>
     <replaceStrings>
       <replace>//</replace>
@@ -235,7 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datascience/ner_spacy/ner4.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/ner5.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/identify.py" />
         <option value="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" />
@@ -260,7 +262,6 @@
         <option value="$PROJECT_DIR$/hackerearth/littleshino3.py" />
         <option value="$PROJECT_DIR$/hackerearth/littleshino5.py" />
         <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" />
-        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
         <option value="$PROJECT_DIR$/flask/hw.py" />
         <option value="$PROJECT_DIR$/flask/multiple_api.py" />
         <option value="$PROJECT_DIR$/file_operations/read.py" />
@@ -283,9 +284,11 @@
         <option value="$PROJECT_DIR$/flask/flask_sample/crud.py" />
         <option value="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" />
         <option value="$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py" />
-        <option value="$PROJECT_DIR$/flask_api/flask_sample/crud.py" />
         <option value="$PROJECT_DIR$/flask_api/flask_sample/api.py" />
         <option value="$PROJECT_DIR$/flask_api/module_docker/index.py" />
+        <option value="$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
+        <option value="$PROJECT_DIR$/flask_api/flask_sample/crud.py" />
       </list>
     </option>
   </component>
@@ -317,7 +320,7 @@
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
               <item name="flask_api" type="462c0819:PsiDirectoryNode" />
-              <item name="module_docker" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_sample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,17 +333,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workspace\pythontutorial\flask\flask_sample" />
+      <recent name="G:\workspace\pythontutorial\flask" />
+      <recent name="G:\workspace\pythontutorial\Basics\io" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\workspace\pythontutorial" />
       <recent name="G:\workspace\pythontutorial\datascience" />
       <recent name="G:\workspace\pythontutorial\datascience\doc_classification\classifydata" />
       <recent name="G:\workspace\pythontutorial\datascience\sklearn" />
       <recent name="G:\workspace\pythontutorial\Basics\functions" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\workspace\pythontutorial\flask\flask_sample" />
-      <recent name="G:\workspace\pythontutorial\flask" />
-      <recent name="G:\workspace\pythontutorial\Basics\io" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -355,8 +358,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.api">
-    <configuration name="ConnectMongodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.crud (1)">
+    <configuration name="Aadhar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,11 +367,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/mongodb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/strings/regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mongohelper (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NER_Entity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,11 +388,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_api/flask_sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/ner_spacy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,7 +464,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crud" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -469,11 +472,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask/flask_sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/doc_classification/classifydata" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/flask_sample/crud.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -570,19 +573,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ConnectMongodb" />
-      <item itemvalue="Python.crud" />
       <item itemvalue="Python.crud (1)" />
-      <item itemvalue="Python.Mongohelper (1)" />
       <item itemvalue="Python.api" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.NER_Entity" />
+      <item itemvalue="Python.Aadhar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api" />
         <item itemvalue="Python.crud (1)" />
-        <item itemvalue="Python.Mongohelper (1)" />
-        <item itemvalue="Python.ConnectMongodb" />
-        <item itemvalue="Python.crud" />
+        <item itemvalue="Python.Aadhar" />
+        <item itemvalue="Python.NER_Entity" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.api" />
       </list>
     </recent_temporary>
   </component>
@@ -674,24 +677,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556082928384</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="flask crud with mongo">
+      <created>1556090640541</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556090640561</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16716418" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833335" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.345" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.485" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28666666" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32786885" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36166668" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.36166668" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -972,12 +983,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
-          <line>36</line>
+          <line>37</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
-          <line>68</line>
+          <line>63</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -997,7 +1008,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
-          <line>42</line>
+          <line>43</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1149,34 +1160,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="120" selection-start-line="2" selection-start-column="120" selection-end-line="2" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1321,13 +1308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1346,9 +1326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1356,9 +1333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="20" column="23" selection-start-line="19" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1373,54 +1347,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          <folding>
-            <element signature="e#38#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/dist/404.html">
+    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/crud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="63" column="23" lean-forward="true" selection-start-line="62" selection-end-line="63" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1556083712618" expanded="true" signature="1371:1372" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="11" column="9" selection-end-line="31" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="731">
+          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -1434,15 +1367,81 @@
     <entry file="file://$PROJECT_DIR$/flask_api/module_docker/output.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5270">
+          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flask_api/module_docker/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/index.py">
+    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/dist/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="46" column="53" lean-forward="true" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
-            <element signature="e#45#54#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/crud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1556134616050" expanded="true" signature="1371:1372" ph="..." />
           </folding>
         </state>
       </provider>

@@ -33,6 +33,7 @@ check=dict(zip(X_train,y_train))
 
 
 vectorizer = TfidfVectorizer(stop_words="english", max_features=1000, decode_error="ignore")
+print("Stop Words=",vectorizer.stop_words)
 vectorizer.fit(X_train)
 keywords=vectorizer.get_feature_names()
 print("keywords=",keywords)
@@ -50,22 +51,16 @@ test_doc=testobj.data_for_a_document()
 prediction_for_a_doc=cls.predict(vectorizer.transform(test_doc))
 print("pred for a doc ",prediction_for_a_doc)
 
-
 y_pred = cls.predict(vectorizer.transform(X_test))
 print("accuracy with naive bayes = ",accuracy_score(y_test, y_pred))
 # print(classification_report(y_test, y_pred))
 
-
-
-
-svc_tfidf = Pipeline([
-    ("tfidf_vectorizer", TfidfVectorizer(stop_words="english", max_features=3000)),
-    ("linear svc", SVC(kernel="linear"))])
-
-all_models = [
-    ("svc_tfidf", svc_tfidf),
-]
-
-unsorted_scores = [(name, cross_val_score(model, X_train, y_train, cv=2).mean()) for name, model in all_models]
-scores = sorted(unsorted_scores, key=lambda x: -x[1])
-print(scores)
+# svc_tfidf = Pipeline([
+#     ("tfidf_vectorizer", TfidfVectorizer(stop_words="english", max_features=3000)),
+#     ("linear svc", SVC(kernel="linear"))])
+#
+# models = [("svc_tfidf", svc_tfidf), ]
+#
+# svc_score = [(name, cross_val_score(model, X_train, y_train, cv=2).mean()) for name, model in models]
+# scores = sorted(svc_score, key=lambda x: -x[1])
+# print(scores)

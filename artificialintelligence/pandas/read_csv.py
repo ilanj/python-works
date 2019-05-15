@@ -32,7 +32,7 @@ print("after removing space",)
 # newcolnames=['zipcode','totalpopulation','medianage','totalmales','totalfemales','totalhouseholds','avghouseholdsize','zipandpopulation']
 # data.columns=newcolnames
 # print("after renaming fully",data.dtypes)#now renamed fully
-# '''while reading file itself can rename columns with data=pd.read_csv("G:\workspace\pythontutorial\io_files//2010_Census_Populations_by_Zip_Code.csv",names=newcolnames,header=0)
+# '''while reading file itself can rename columns with data=pd.read_csv("G:\workspace\pythontutorial\iofiles//2010_Census_Populations_by_Zip_Code.csv",names=newcolnames,header=0)
 #
 # '''
 #

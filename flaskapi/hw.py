@@ -6,7 +6,7 @@ app=Flask(__name__)
 @app.route("/")
 def index():
     status=True
-    data = {"faxCoversheet": status, "name": "concord",
+    data = {"boolean_status": status, "name": "ilanchezhian",
         "place": "chennai",
         "id": 36,
             }

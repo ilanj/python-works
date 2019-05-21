@@ -7,7 +7,7 @@ class CreateTable:
     mydb = mysql.connector.connect(
       host="localhost",
       user="root",
-      passwd="8xPm2vad",
+      passwd="8888xxxx",
       port=3307,
       database="world"
     )

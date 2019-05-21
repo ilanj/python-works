@@ -1,9 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="flask crud with mongo">
+    <list default="true" id="628aedf2-da9a-4f57-af70-0bbb31f05680" name="Default" comment="refractoring">
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/fashion_minst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskapi/module_docker/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pep8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/branching/andoreg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/andoreg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/branching/elifex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/elifex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/branching/grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/grades.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/branching/ifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/ifelse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/branching/oddoreven.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/oddoreven.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/branching/simpleif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/branching/simpleif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dict_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dictex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/dictionary/dictex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/defaultarg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/defaultarg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/functionsarg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/functionsarg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/listreduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/lambda/listreduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/modules/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/modules/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/modules/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/modules/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/functions/run_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/functions/run_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/io/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/io/format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/io/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/io/print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/bufferlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/bufferlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/collections.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/collections.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/heterogeneous.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/heterogeneous.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listEg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_as_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_as_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/list_doubles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/list_doubles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listwithdiffdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/listwithdiffdata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/nested_list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/nested_list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/list/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/breakcontinue/bc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/breakcontinue/bc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/breakcontinue/bcdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/breakcontinue/bcdemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/breakcontinue/pass_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/breakcontinue/pass_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/for/for1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/for/for1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/for/listsex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/for/listsex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/for/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/for/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/generator/exgenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/generator/exgenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/generator/generatesq.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/generator/generatesq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/iterator/iterator1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/iterator/iterator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/iterator/iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/iterator/iterators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/enumerate_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/enumerate_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/zip_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/zip_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/while/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/while/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/loops/while/whileex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/loops/while/whileex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/operators/identity_membership.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/operators/identity_membership.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/selenium/chrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/selenium/chrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/selenium/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/selenium/delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/selenium/firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/selenium/firefox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/selenium/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/selenium/form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/selenium/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/selenium/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/selenium/openbrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/selenium/openbrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/sets/ex_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/sets/ex_prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/sets/setex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/sets/setex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/buffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/buffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/io.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/reverse_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/reverse_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings/slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings/slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/tuples/words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/tuples/words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/urls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/urls.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buffer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buffer/checkis.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/checkis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/datatype.txt" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/datatype.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/news20dataset/print_hrlp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/ner_spacy/ner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/ner_spacy/ner3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/ner_spacy/ner4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/ner_spacy/ner5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/arithematic.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/arithematic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/booleanindexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/booleanindexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/manipulating_ndarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/manipulating_ndarrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/np1.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/np1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/np2.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/np2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/np3_access_del_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/np3_access_del_insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/numpy/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/axis_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/axis_param.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/categories_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/categories_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/change_datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/change_datatype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/datapandas_xlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/datapandas_xlsx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/dates_times.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/dates_times.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/dummyvar.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/dummyvar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/ex_with_sep.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/ex_with_sep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/filter_dataframe_byvalue.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/filter_dataframe_byvalue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/groupby.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/groupby.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/indices.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/indices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/missing_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/missing_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/multiple_rows_cols.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/multiple_rows_cols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/multiplefilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/multiplefilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/orderstsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/orderstsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/pandas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/pandas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/pandas_Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/pandas_Series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/pandas_filter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/pandas_filter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/pandaswithscikit.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/pandaswithscikit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/remove_duplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/remove_duplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/removing_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/removing_columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/selected_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/selected_columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/sort_dataframe_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/sort_dataframe_series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/split_train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/split_train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/pandas/string_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/string_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/decisiontree/dctree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/decisiontree/dectree_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/assignment1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/boston_data_pred.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/lasso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/ndarraytopoly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/polydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/polyregression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/predictsquare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/linear_regression/predictsquare1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datascience/sklearn/naivebayes/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongodb/ConnectMongodb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sqldb/TableOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/sqldb/TableOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/deletions.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/deletions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/json_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/json_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/json_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/json_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/pickle_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/pickle_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/print2console.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/print2console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_operations/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/CrudMongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/CrudMongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/flask_sample/Mongohelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/flask_sample/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/flask_sample/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/flask_sample/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/flask_sample/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/app/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/app/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/app/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/app/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/logger/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/logger/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/logger/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/logger/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/bingapi/search_bing_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/module_docker/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/module_docker/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_api/multiple_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/multiple_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerearth/Littleshino.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerearth/Littleshino.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerearth/littleshino1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerearth/littleshino1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerearth/littleshino2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerearth/littleshino2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerearth/littleshino3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerearth/littleshino3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerearth/littleshino5.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerearth/littleshino5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneous/del_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneous/del_statement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneous/direxample.py" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneous/direxample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscellaneous/zipex.py" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneous/zipex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/namespace.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes/namespace.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/tools.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes/tools.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/_/run_Singleunderscore.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/_/run_singleunderscore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/_/single_.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/_/single_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/__/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/__/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/__/derived.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/__/derived.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_instance_vars.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_instance_vars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_instance_vars1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_instance_vars1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/checkscope.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/checkscope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/instance_obj.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/instance_obj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/introd.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/introd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/introd1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/introd1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/local_nonlocal.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/local_nonlocal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/scopes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class_intro/selfex.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class_intro/selfex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/constructor/constypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/constructor/constypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/data_abstraction/abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/data_abstraction/abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/data_abstraction/data_abs1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/data_abstraction/data_abs1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/data_abstraction/data_abs2.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/data_abstraction/data_abs2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/encapsulation/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/encapsulation/encaps2.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/encapsulation/encaps2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/function_decorator/decorator_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/function_decorator/decorator_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/function_decorator/not.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/function_decorator/not.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/balance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/banka.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/banka.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/bankb.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/multipleinheritance/bankb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/practice/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/practice/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/practice/b.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/practice/b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/practice/derived.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/practice/derived.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/calcube.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/calcube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/calsqr.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/calsqr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/inheritance/single_multilevel_inheritance/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/init/initex.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/init/initex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/methods/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/oops/methods/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/misc/overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/misc/overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/misc/pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/misc/pass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/overriding/over_ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/overriding/over_ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/overriding/over_ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/overriding/over_ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parseapi/parseresponse.py" beforeDir="false" afterPath="$PROJECT_DIR$/parseapi/parseresponse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/sysmodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/sysmodule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/areaofcircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/areaofcircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/areaoftriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/areaoftriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/calender.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/calender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/modulus.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/modulus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/si.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/si.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/simplecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/simplecalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/simplecalculator1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/simplecalculator1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/swap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/basicprograms/typcasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/basicprograms/typcasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/armstrong_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/armstrong_no.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/factorialrecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/factorialrecursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/hcf.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/hcf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/lcm.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/lcm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/pascaltriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/pascaltriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/patterns_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/patterns_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/primeno.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/primeno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/reversesimple.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/reversesimple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/sortwords.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/sortwords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/squareroot.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/squareroot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/loopprograms/sumofnos.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/loopprograms/sumofnos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/matrix/matrixadd.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/matrix/matrixadd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/matrix/matrixadd1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/matrix/matrixadd1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/matrix/transpose.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/matrix/transpose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/test/Print.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/test/Print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/test/print1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/test/print1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/test/print2.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/test/print2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/test/printvar.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/test/printvar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/test/runtimeinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/test/runtimeinput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programs/test/stringprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/test/stringprint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip/listwithzip.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip/listwithzip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip/zip_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip/zip_ex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,128 +270,69 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="216150098">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.127" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="3" />
-          <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.24" value="3" />
-          <entry key="project.open.time.25" value="5" />
-          <entry key="project.open.time.26" value="7" />
-          <entry key="project.open.time.27" value="3" />
-          <entry key="project.open.time.28" value="5" />
-          <entry key="project.open.time.29" value="5" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.30" value="6" />
-          <entry key="project.open.time.31" value="7" />
-          <entry key="project.open.time.32" value="2" />
-          <entry key="project.open.time.33" value="5" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.35" value="3" />
-          <entry key="project.open.time.36" value="3" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="3" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.41" value="2" />
-          <entry key="project.open.time.42" value="2" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.46" value="2" />
-          <entry key="project.open.time.48" value="2" />
-          <entry key="project.open.time.52" value="1" />
-          <entry key="project.open.time.53" value="1" />
-          <entry key="project.open.time.55" value="1" />
-          <entry key="project.open.time.56" value="1" />
-          <entry key="project.open.time.57" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.60" value="1" />
-          <entry key="project.open.time.66" value="1" />
-          <entry key="project.open.time.70" value="1" />
-          <entry key="project.open.time.71" value="1" />
-          <entry key="project.open.time.75" value="1" />
-          <entry key="project.open.time.78" value="1" />
-          <entry key="project.open.time.87" value="1" />
-          <entry key="project.opened" value="97" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="csv" value="8" />
-          <entry key="html" value="2" />
-          <entry key="ipynb" value="3" />
-          <entry key="log" value="1" />
-          <entry key="pkl" value="1" />
-          <entry key="py" value="654" />
-          <entry key="testfile" value="1" />
-          <entry key="txt" value="50" />
-          <entry key="yml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="2" />
-          <entry key="IPNB" value="3" />
-          <entry key="PLAIN_TEXT" value="61" />
-          <entry key="Python" value="654" />
-          <entry key="YAML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="149" />
-          <entry key="py" value="34671" />
-          <entry key="txt" value="1142" />
-          <entry key="yml" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1291" />
-          <entry key="Python" value="34671" />
-          <entry key="YAML" value="12" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/io/print.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileoperations/read.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileoperations/print2console.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/list/listEg.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/axis_param.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileoperations/pickle_ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/crud.py">
+        <entry file="file://$PROJECT_DIR$/db/sqldb/TableOperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1556134616050" expanded="true" signature="1371:1372" ph="..." />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/removing_columns.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py">
+        <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="570">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -141,63 +341,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
+        <entry file="file://$PROJECT_DIR$/pep8.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5270">
-              <caret line="311" selection-start-line="311" selection-end-line="311" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/manage.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/dist/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -220,10 +367,11 @@
       <find>targ</find>
       <find>from</find>
       <find>pyt</find>
-      <find>\</find>
       <find>stop</find>
       <find>css</find>
       <find>vectorizer</find>
+      <find>\</find>
+      <find>dum</find>
     </findStrings>
     <replaceStrings>
       <replace>//</replace>
@@ -238,19 +386,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datascience/ner_spacy/ner5.py" />
-        <option value="$PROJECT_DIR$/datascience/ner_spacy/identify.py" />
-        <option value="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" />
-        <option value="$PROJECT_DIR$/Basics/strings/regex/aadhar.py" />
-        <option value="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" />
-        <option value="$PROJECT_DIR$/buffer/checkis.py" />
-        <option value="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" />
-        <option value="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" />
-        <option value="$PROJECT_DIR$/Basics/functions/args.py" />
-        <option value="$PROJECT_DIR$/Basics/io/print.py" />
-        <option value="$PROJECT_DIR$/Basics/list/listEg.py" />
-        <option value="$PROJECT_DIR$/Basics/list/collections.txt" />
-        <option value="$PROJECT_DIR$/Basics/strings/buffer.py" />
         <option value="$PROJECT_DIR$/Basics/strings/reverse.py" />
         <option value="$PROJECT_DIR$/zip/listwithzip.py" />
         <option value="$PROJECT_DIR$/zip/zip_ex.py" />
@@ -289,14 +424,44 @@
         <option value="$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml" />
         <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
         <option value="$PROJECT_DIR$/flask_api/flask_sample/crud.py" />
+        <option value="$PROJECT_DIR$/flask_api/hw.py" />
+        <option value="$PROJECT_DIR$/artificial_intelligence/deep_learning/tensorflow/first_step.py" />
+        <option value="$PROJECT_DIR$/pep8.txt" />
+        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/first_step.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loan_default_prediction/predict_loan_default.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/load_data.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/ner_spacy/NER_Entity.py" />
+        <option value="$PROJECT_DIR$/api/bingapi/search_bing_api.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py" />
+        <option value="$PROJECT_DIR$/db/sqldb/TableOperations.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="2" />
-    <option name="width" value="1378" />
+    <option name="x" value="43" />
+    <option name="y" value="27" />
+    <option name="width" value="1323" />
     <option name="height" value="733" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -304,6 +469,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,22 +480,23 @@
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_api" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_api" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_sample" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="sqldb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -339,11 +506,11 @@
       <recent name="G:\workspace\pythontutorial\Basics\io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspace\pythontutorial\datascience\machine_learning" />
       <recent name="G:\workspace\pythontutorial" />
       <recent name="G:\workspace\pythontutorial\datascience" />
       <recent name="G:\workspace\pythontutorial\datascience\doc_classification\classifydata" />
       <recent name="G:\workspace\pythontutorial\datascience\sklearn" />
-      <recent name="G:\workspace\pythontutorial\Basics\functions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -358,49 +525,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crud (1)">
-    <configuration name="Aadhar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/strings/regex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NER_Entity" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/ner_spacy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pickle_ex">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -422,7 +547,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="andoreg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,11 +555,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_api/flask_sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/branching" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_api/flask_sample/api.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/branching/andoreg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -443,7 +568,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crud (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nltk_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -451,11 +576,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_api/flask_sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_api/flask_sample/crud.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,7 +589,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pandaswithscikit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -472,11 +597,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datascience/doc_classification/classifydata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/pandas/pandaswithscikit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pickle_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fileoperations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileoperations/pickle_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_bing_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/bingapi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/bingapi/search_bing_api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -573,19 +740,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.crud (1)" />
-      <item itemvalue="Python.api" />
-      <item itemvalue="Python.train" />
-      <item itemvalue="Python.NER_Entity" />
-      <item itemvalue="Python.Aadhar" />
+      <item itemvalue="Python.andoreg" />
+      <item itemvalue="Python.nltk_practice" />
+      <item itemvalue="Python.pandaswithscikit" />
+      <item itemvalue="Python.search_bing_api" />
+      <item itemvalue="Python.pickle_ex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.crud (1)" />
-        <item itemvalue="Python.Aadhar" />
-        <item itemvalue="Python.NER_Entity" />
-        <item itemvalue="Python.train" />
-        <item itemvalue="Python.api" />
+        <item itemvalue="Python.pickle_ex" />
+        <item itemvalue="Python.andoreg" />
+        <item itemvalue="Python.nltk_practice" />
+        <item itemvalue="Python.pandaswithscikit" />
+        <item itemvalue="Python.search_bing_api" />
       </list>
     </recent_temporary>
   </component>
@@ -684,20 +851,27 @@
       <option name="project" value="LOCAL" />
       <updated>1556090640561</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="refractoring">
+      <created>1556173109630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556173109630</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <frame x="43" y="27" width="1323" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16716418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18089272" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833335" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28666666" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39403972" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40728477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -712,9 +886,6 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="double _" />
     <MESSAGE value="just commit" />
@@ -726,7 +897,8 @@
     <MESSAGE value="sql" />
     <MESSAGE value="docker" />
     <MESSAGE value="flask crud with mongo" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask crud with mongo" />
+    <MESSAGE value="refractoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refractoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -822,152 +994,152 @@
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/file_operations/json_read.py</url>
+          <url>file://$PROJECT_DIR$/fileoperations/json_read.py</url>
           <line>5</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/file_operations/json_read.py</url>
+          <url>file://$PROJECT_DIR$/fileoperations/json_read.py</url>
           <line>3</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/datapandas_xlsx.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/datapandas_xlsx.py</url>
           <line>16</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/ex_with_sep.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/ex_with_sep.py</url>
           <line>5</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/ex_with_sep.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/ex_with_sep.py</url>
           <line>6</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/read_csv.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/read_csv.py</url>
           <line>7</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/read_csv.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/read_csv.py</url>
           <line>17</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/read_csv.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/read_csv.py</url>
           <line>16</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/sort_dataframe_series.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/sort_dataframe_series.py</url>
           <line>5</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/indices.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/indices.py</url>
           <line>59</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/indices.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/indices.py</url>
           <line>55</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/split_train_test.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/split_train_test.py</url>
           <line>6</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/dummyvar.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/dummyvar.py</url>
           <line>13</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/numpy/np2.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/numpy/np2.py</url>
           <line>36</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/numpy/np2.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/numpy/np2.py</url>
           <line>37</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/assignment1.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/assignment1.py</url>
           <line>12</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/predictsquare.py</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare.py</url>
+          <line>25</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/boston_data_pred.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/boston_data_pred.py</url>
           <line>21</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/assignment1.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/assignment1.py</url>
           <line>7</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/pandas/dummyvar.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/dummyvar.py</url>
           <line>12</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/lasso.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/lasso.py</url>
           <line>7</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/polyregression.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py</url>
           <line>11</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/polyregression.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py</url>
           <line>16</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/polyregression.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py</url>
           <line>27</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/polyregression.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py</url>
           <line>15</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/ndarraytopoly.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/ndarraytopoly.py</url>
           <line>9</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/linear_regression/lasso.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/lasso.py</url>
           <line>26</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/decisiontree/dctree.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/decisiontree/dctree.py</url>
           <line>17</line>
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/sklearn/decisiontree/dctree.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/decisiontree/dctree.py</url>
           <line>18</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/news20dataset/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset/train.py</url>
           <line>51</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
@@ -982,32 +1154,27 @@
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>37</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>17</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>26</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>34</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>43</line>
           <option name="timeStamp" value="125" />
         </line-breakpoint>
@@ -1032,7 +1199,7 @@
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>16</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
@@ -1057,7 +1224,7 @@
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py</url>
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py</url>
           <line>53</line>
           <option name="timeStamp" value="148" />
         </line-breakpoint>
@@ -1107,49 +1274,66 @@
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/crud.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py</url>
           <line>27</line>
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/crud.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py</url>
           <line>28</line>
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/crud.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py</url>
           <line>12</line>
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/crud.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py</url>
           <line>31</line>
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/Mongohelper.py</url>
           <line>30</line>
           <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/Mongohelper.py</url>
           <line>24</line>
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/crud.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py</url>
           <line>51</line>
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/flask_api/flask_sample/crud.py</url>
+          <url>file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py</url>
           <line>52</line>
           <option name="timeStamp" value="169" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/fashion_minst.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/load_data.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fileoperations/pickle_ex.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -1158,291 +1342,327 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="vectorizer" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/Helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="120" selection-start-line="2" selection-start-column="120" selection-end-line="2" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27965">
-          <caret line="1645" selection-start-line="1645" selection-end-line="1645" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_resolver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3366">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackerearth/littleshino5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/testfile" />
-    <entry file="file://$PROJECT_DIR$/file_operations/write.py" />
-    <entry file="file://$PROJECT_DIR$/file_operations/read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/json_write.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/json_read.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/test/Print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/test/print1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/test/print2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/test/runtimeinput.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/format.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/reverse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/reverse_loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/test/printvar.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/io/format.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/test/stringprint.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/buffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/strings/io.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/io/print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackerearth/littleshino1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/django/intro.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/print2console.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file_operations/deletions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/sqldb/ConnectDB.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/sqldb/TableOperations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/mysql/connector/connection_cext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8925">
-          <caret line="531" selection-start-line="531" selection-end-line="531" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/CrudMongo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="83" selection-start-column="83" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15606">
-          <caret line="947" column="37" selection-start-line="947" selection-start-column="37" selection-end-line="947" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/mongodb/ConnectMongodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/hw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="23" selection-start-line="19" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/logger/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/logger/logger.py">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/logger/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/index.py">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/output.log">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/output.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskapi/hw.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/Mongohelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5270">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/manage.py">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/module_docker/app/dist/404.html">
+    <entry file="file://$PROJECT_DIR$/flaskapi/module_docker/app/dist/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/api.py">
+    <entry file="file://$PROJECT_DIR$/oops/encapsulation/data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskapi/multiple_api.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/Helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/datatype.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskapi/flask_sample/Mongohelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py">
+    <entry file="file://$PROJECT_DIR$/flaskapi/flask_sample/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="119">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset/print_hrlp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/assignment1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="78" selection-end-line="9" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/boston_data_pred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/lasso.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datascience/ner_spacy/NER_Entity.py">
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/ndarraytopoly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="29" selection-start-line="15" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/fashion_minst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskapi/flask_sample/crud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1556384858189" expanded="true" signature="1370:1371" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/ner_spacy/NER_Entity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basics/strings/regex/Aadhar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="221">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_api/flask_sample/crud.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/keras_preprocessing/image/utils.py" />
+    <entry file="file://$PROJECT_DIR$/api/bingapi/search_bing_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="60">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1556134616050" expanded="true" signature="1371:1372" ph="..." />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/change_datatype.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/datapandas_xlsx.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/dates_times.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/dummyvar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/pandaswithscikit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/branching/andoreg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/writefile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/io/format.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/io/print.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/list/listEg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/removing_columns.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pep8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/pandas/axis_param.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileoperations/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileoperations/print2console.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileoperations/pickle_ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/sqldb/TableOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>

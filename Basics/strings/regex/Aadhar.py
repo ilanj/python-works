@@ -3,7 +3,7 @@ import re
 
 class Aadhar():
     def load_text(self):
-        path = "G://workspace//tesseractocr//io_files//outputfiles//text_from_ocr//"
+        path = "G://workspace//tesseractocr//iofiles//outputfiles//text_from_ocr//"
         filename = "aadar card ilan.txt"
         f = open(path + filename, encoding='utf8')
         text = f.read()

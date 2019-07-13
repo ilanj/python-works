@@ -1,4 +1,4 @@
-from Basics.functions.modules import utils
+from basics.functions.modules import utils
 import sys
 a=45
 b="fakfha"

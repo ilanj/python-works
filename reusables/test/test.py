@@ -1,7 +1,7 @@
 import re
 
-def test1():
-    f = open("/home/ila/Downloads/text_npi/text_blob/5cc6a0b9bc831709f083aa39/02.txt")
+def test1():#takes only 10 digit nos
+    f = open("")
     text = f.read()
     words = text.split()
     for w in words:
@@ -27,7 +27,7 @@ def test4():
 
 #take every two words
 def test5():
-    f=open('/home/ila/snap/skype/common/1.txt')
+    f=open('')
     text=f.read()
     words=text.split()
     for position in range(0,len(words),2):
@@ -44,7 +44,7 @@ def test6():
 
 def iterate_files():
     import os
-    rootdir = '/home/ila/Downloads/text_for_npi/text_npi_1'
+    rootdir = ''
 
     for subdir, dirs, files in os.walk(rootdir):
         for file in files:

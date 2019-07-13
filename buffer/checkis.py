@@ -1,4 +1,6 @@
-n=int(input("enter a integer"))
+import re
 
-if n is not 25:
-    print(True)
+name= "ergr%4445%^$$T%$GGtG"
+
+text= re.sub(r'[a-z][0-9]','', name)
+print(text)

@@ -15,14 +15,14 @@ def append_data():
     f.close()
 
 def write_data():
-    f=open("G:\workspace\pythontutorial\sample.txt","w")
+    f=open("sample.txt","w")
     f.write("just writing a sample data to file")
     f.close()
-    f=open("G:\workspace\pythontutorial\sample.txt")
+    f=open("sample.txt")
     print(f.read())
 
 if __name__ == "__main__":
-    read_data()
-    append_data()
-    read_data()
+    # read_data()
+    # append_data()
+    # read_data()
     write_data()

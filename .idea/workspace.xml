@@ -2,104 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f87ff8-7254-4f74-a12e-1f39884cf4b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileoperations/file_conversions/downloadyt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileoperations/file_conversions/links_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileoperations/file_conversions/yt2mp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileoperations/sh/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/model2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/miscellaneous/antigravity_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/miscellaneous/wiki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/andoreg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/elifex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/grades.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/ifelse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/oddoreven.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/branching/simpleif.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_ex_prog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dict_module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/dictionary/dictex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/exceptionhandling/exception_handling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/args.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/calculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/defaultarg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/functionsarg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdaex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdafilter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/lambdamap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/lambda/listreduce.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/modules/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/modules/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/functions/run_calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/io/format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/io/print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/bufferlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/collections.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/ex_comprehension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/heterogeneous.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_as_stack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_comprehension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/list_doubles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listtest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/listwithdiffdata.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/nested_list_comprehension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/list/sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/breakcontinue/bc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/breakcontinue/bcdemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/breakcontinue/pass_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/for/for1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/for/listsex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/for/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/for/rangeex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/generator/exgenerator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/generator/generatesq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/generator/generatorexpression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/iterator/iterator1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/iterator/iterators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/enumerate_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/loop_techniqueues/zip_ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/while/sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/loops/while/whileex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/operators/identity_membership.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/sendequests/sendreq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/chrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/delete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/firefox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/form.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/geckodriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/selenium/openbrowser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/sets/ex_prog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/sets/setex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/buffer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/io.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/n_matches.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/regex/Aadhar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/reverse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/reverse_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings/slice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/tuples/tuple_check_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/tuples/words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/urls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buffer/checkis.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/checkis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileoperations/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscellaneous/direxample.py" beforeDir="false" afterPath="$PROJECT_DIR$/miscellaneous/direxample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parseapi/parseresponse.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/parseapi/parseresponse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programs/stringconcepts/closestmatches.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/stringconcepts/closestmatches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programs/stringconcepts/dictionary_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/programs/stringconcepts/dictionary_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reusables/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/reusables/test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zip/zip_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip/zip_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="-361">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -142,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/naive_bayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="855">
               <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
             </state>
           </provider>
@@ -160,20 +64,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="60">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -251,7 +146,6 @@
         <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loan_default_prediction/predict_loan_default.py" />
         <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py" />
         <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/load_data.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" />
         <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/ner_spacy/NER_Entity.py" />
         <option value="$PROJECT_DIR$/api/bingapi/search_bing_api.py" />
         <option value="$PROJECT_DIR$/db/sqldb/TableOperations.py" />
@@ -291,14 +185,15 @@
         <option value="$PROJECT_DIR$/fileoperations/file_conversions/downloadyt.py" />
         <option value="$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py" />
         <option value="$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py" />
+        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="43" />
     <option name="y" value="27" />
-    <option name="width" value="1221" />
-    <option name="height" value="646" />
+    <option name="width" value="1323" />
+    <option name="height" value="700" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -323,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -333,19 +229,33 @@
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="fileoperations" type="462c0819:PsiDirectoryNode" />
+              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="fileoperations" type="462c0819:PsiDirectoryNode" />
-              <item name="file_conversions" type="462c0819:PsiDirectoryNode" />
+              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="doc_classification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="doc_classification" type="462c0819:PsiDirectoryNode" />
+              <item name="classifydata" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.vid_mp3">
+  <component name="RunManager" selected="Python.train">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -596,17 +506,17 @@
     </configuration>
     <list>
       <item itemvalue="Python.dl" />
-      <item itemvalue="Python.video2mp3" />
-      <item itemvalue="Python.train" />
       <item itemvalue="Python.train (1)" />
+      <item itemvalue="Python.train" />
       <item itemvalue="Python.vid_mp3" />
+      <item itemvalue="Python.video2mp3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.train" />
         <item itemvalue="Python.vid_mp3" />
         <item itemvalue="Python.video2mp3" />
         <item itemvalue="Python.dl" />
-        <item itemvalue="Python.train" />
         <item itemvalue="Python.train (1)" />
       </list>
     </recent_temporary>
@@ -713,18 +623,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556173109630</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="conversions">
+      <created>1562991219282</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1562991219283</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="700" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28560606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3037879" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32781458" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40602836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.429078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.20567375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -752,7 +669,8 @@
     <MESSAGE value="docker" />
     <MESSAGE value="flask crud with mongo" />
     <MESSAGE value="refractoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refractoring" />
+    <MESSAGE value="conversions" />
+    <option name="LAST_COMMIT_MESSAGE" value="conversions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1627,27 +1545,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/datasets/base.py">
+    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py" />
+    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/dl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/naive_bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1658,12 +1560,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/dl.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/naive_bayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="855">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/exceptionhandling/exception_handling.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/downloadyt.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1679,23 +1601,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basics/exceptionhandling/exception_handling.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py">
+    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="-361">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>

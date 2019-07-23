@@ -1,0 +1,2 @@
+prior- classify based on  general probability
+posterior- classify with the help of features

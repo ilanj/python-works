@@ -1,0 +1,3 @@
+haai welcome to python
+this is just an example file
+so this is third lineam new line addedam new line addedam new line addedam new line addedam new line added

@@ -1,0 +1,531 @@
+1540614960097	geckodriver	INFO	geckodriver 0.20.1
+1540614960116	geckodriver	INFO	Listening on 127.0.0.1:55555
+1540614963044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.jzDyRCJ1JoTH"
+1540614965132	Marionette	DEBUG	Received observer notification profile-after-change
+1540614965582	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540614965762	Marionette	DEBUG	Received observer notification command-line-startup
+1540614965762	Marionette	DEBUG	Received observer notification nsPref:changed
+1540614965763	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540614967232	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540614970879	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540614970879	Marionette	DEBUG	Waiting for delayed startup...
+1540614971366	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540614971366	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540614971368	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540614971370	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540614971370	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540614971436	Marionette	INFO	Listening on port 55571
+1540614971436	Marionette	DEBUG	Remote service is active
+1540614972507	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55612
+1540614972510	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540614972511	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+[Parent 13316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540615010176	Marionette	DEBUG	Closed connection 0
+[Child 17156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17156, Chrome_ChildThr[Parent 13316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540615011872	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540615011872	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540615011872	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540615011872	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540615011874	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540615011874	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540615011874	Marionette	INFO	Stopped listening on port 55571
+1540615011874	Marionette	DEBUG	Remote service is inactive
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540615058692	geckodriver	INFO	geckodriver 0.20.1
+1540615058709	geckodriver	INFO	Listening on 127.0.0.1:55790
+1540615061771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.e7FlzveVsgHf"
+1540615062327	Marionette	DEBUG	Received observer notification profile-after-change
+1540615062701	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540615062756	Marionette	DEBUG	Received observer notification command-line-startup
+1540615062756	Marionette	DEBUG	Received observer notification nsPref:changed
+1540615062756	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540615063863	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540615065788	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540615065788	Marionette	DEBUG	Waiting for delayed startup...
+1540615065856	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540615065857	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540615065858	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540615065858	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540615065858	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540615065895	Marionette	INFO	Listening on port 55805
+1540615065895	Marionette	DEBUG	Remote service is active
+1540615065920	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55823
+1540615065932	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540615065932	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540615308970	geckodriver	INFO	geckodriver 0.20.1
+1540615308988	geckodriver	INFO	Listening on 127.0.0.1:56307
+1540615312038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.jrTeao4TnkVA"
+1540615312860	Marionette	DEBUG	Received observer notification profile-after-change
+1540615313314	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540615313401	Marionette	DEBUG	Received observer notification command-line-startup
+1540615313401	Marionette	DEBUG	Received observer notification nsPref:changed
+1540615313401	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540615314396	Marionette	DEBUG	Received observer notification toplevel-window-ready
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1540615316415	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540615316416	Marionette	DEBUG	Waiting for delayed startup...
+1540615316476	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540615316477	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540615316477	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540615316478	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540615316478	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540615316512	Marionette	INFO	Listening on port 56320
+1540615316512	Marionette	DEBUG	Remote service is active
+1540615317295	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56347
+1540615317298	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540615317299	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+[Child 4840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540615352153	Marionette	DEBUG	Closed connection 0
+[Child 19616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19616, Chrome_Ch[Parent 19600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19040, Chrome_1540615353657	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540615353657	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540615353657	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540615353658	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540615353660	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540615353661	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540615353662	Marionette	INFO	Stopped listening on port 56320
+1540615353662	Marionette	DEBUG	Remote service is inactive
+[GPU 10284, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540615550320	geckodriver	INFO	geckodriver 0.20.1
+1540615550336	geckodriver	INFO	Listening on 127.0.0.1:56853
+1540615553393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.t55LH0Pe3xLD"
+1540615554339	Marionette	DEBUG	Received observer notification profile-after-change
+1540615554745	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540615554786	Marionette	DEBUG	Received observer notification command-line-startup
+1540615554786	Marionette	DEBUG	Received observer notification nsPref:changed
+1540615554786	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540615556045	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540615557969	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540615557970	Marionette	DEBUG	Waiting for delayed startup...
+1540615558032	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540615558032	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540615558033	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540615558034	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540615558034	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540615558074	Marionette	INFO	Listening on port 56867
+1540615558074	Marionette	DEBUG	Remote service is active
+1540615558654	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56896
+1540615558658	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540615558659	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540616581398	geckodriver	INFO	geckodriver 0.20.1
+1540616581406	geckodriver	INFO	Listening on 127.0.0.1:59120
+1540616584504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.dJMpf7fPWzgb"
+1540616586546	Marionette	DEBUG	Received observer notification profile-after-change
+1540616587213	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540616587243	Marionette	DEBUG	Received observer notification command-line-startup
+1540616587243	Marionette	DEBUG	Received observer notification nsPref:changed
+1540616587243	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540616589275	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540616591874	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540616591874	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1540616595945	Marionette	DEBUG	Received observer notification domwindowclosed
+1540616595945	Marionette	DEBUG	Waiting for delayed startup...
+1540616595951	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540616595952	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540616595953	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540616595954	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540616595955	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540616595989	Marionette	INFO	Listening on port 59133
+1540616595989	Marionette	DEBUG	Remote service is active
+[Child 3092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3092, Chro1540616596060	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:59186
+1540616596061	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540616596061	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540616609639	Marionette	DEBUG	Closed connection 0
+[Child 23520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[hCrome/common/ipc_channel_win.cc, line 346hild 3584, Chrome_
+ChildThread] WARNING: pipe error: 109: fi[Child le z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3584[Parent 3852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 251540616611516	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540616611516	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540616611516	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540616611517	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540616611517	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540616611517	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540616611517	Marionette	INFO	Stopped listening on port 59133
+1540616611517	Marionette	DEBUG	Remote service is inactive
+[GPU 16832, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540617825148	geckodriver	INFO	geckodriver 0.20.1
+1540617825159	geckodriver	INFO	Listening on 127.0.0.1:61714
+1540617828238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.sANsDp81MfU1"
+1540617830413	Marionette	DEBUG	Received observer notification profile-after-change
+1540617830851	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540617830883	Marionette	DEBUG	Received observer notification command-line-startup
+1540617830883	Marionette	DEBUG	Received observer notification nsPref:changed
+1540617830883	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540617832153	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540617833958	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540617833958	Marionette	DEBUG	Waiting for delayed startup...
+1540617834018	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540617834018	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540617834019	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540617834020	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540617834020	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540617834060	Marionette	INFO	Listening on port 61729
+1540617834060	Marionette	DEBUG	Remote service is active
+1540617834561	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:61755
+1540617834563	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540617834564	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+1540618153976	geckodriver	INFO	geckodriver 0.20.1
+1540618153986	geckodriver	INFO	Listening on 127.0.0.1:62450
+error: Found argument '-e' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe -v
+
+For more information try --help
+1540618278755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.9rM5bFtitcbI"
+1540618285498	Marionette	INFO	Listening on port 62709
+1540618285593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540618297510	Marionette	INFO	Stopped listening on port 62709
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Parent 29648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 29648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21[GPU 9884, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540836427772	geckodriver	INFO	geckodriver 0.20.1
+1540836427783	geckodriver	INFO	Listening on 127.0.0.1:51926
+1540836430796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.u7NGRDH5HENv"
+1540836433871	Marionette	DEBUG	Received observer notification profile-after-change
+1540836434479	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540836434701	Marionette	DEBUG	Received observer notification command-line-startup
+1540836434701	Marionette	DEBUG	Received observer notification nsPref:changed
+1540836434701	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540836437122	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540836444481	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540836444481	Marionette	DEBUG	GFX sanity window detected, waiting until it has been closed...
+1540836448354	Marionette	DEBUG	Received observer notification domwindowclosed
+1540836448354	Marionette	DEBUG	Waiting for delayed startup...
+1540836448371	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540836448372	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540836448374	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540836448374	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540836448375	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+[Parent 10088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540836449775	Marionette	INFO	Listening on port 51934
+1540836449776	Marionette	DEBUG	Remote service is active
+[Child 28448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540836450761	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51968
+1540836450764	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540836450765	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+[Parent 10088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540836473375	Marionette	DEBUG	Closed connection 0
+[Child 15396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Child 22580, Chrome_ChildThread] c/ipc/chromium/sWARNING: pipe error: r1c/chrome/common/ipc_channel_win.cc, line 34609: file z:/
+build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540836475071	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540836475071	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540836475071	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540836475071	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540836475072	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540836475072	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540836475073	Marionette	INFO	Stopped listening on port 51934
+1540836475073	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19016,1540836585564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.SZOKsruz0yiN"
+1540836590945	Marionette	INFO	Listening on port 52003
+1540836591149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540836597208	Marionette	INFO	Stopped listening on port 52003
+[Parent 21732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 241
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540836657584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.p1jNKtMMOn0j"
+1540836661738	Marionette	INFO	Listening on port 52061
+1540836661897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+1540836675773	Marionette	INFO	Stopped listening on port 52061
+[Parent 10488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2[GPU 1400, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540836686685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.yyDKQohGvwQf"
+1540836692122	Marionette	INFO	Listening on port 52208
+1540836692213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300067,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300065,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300066,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300045,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190091,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+d 22184, 
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s
+###!!! [Child][MessageChannel] Error: (msgtype=0x190001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 78: NS_ERROR_UNEXPECTED: 
+[Parent 17884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16
+###!!! [Child][MessageChannel] Error: (msgtype=0x19002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 22780, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+1540904971139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\auxouser\\AppData\\Local\\Temp\\rust_mozprofile.udji7bSuGFpl"
+1540904982064	Marionette	INFO	Listening on port 54892
+1540904982233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.8.1, line 1: TypeError: jQuery.browser is undefined
+JavaScript error: http://20tvni1sjxyh352kld2lslvc.wpengine.netdna-cdn.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.8.1, line 7: TypeError: t.browser is undefined
+[Parent 27048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 27048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1540965488570	Marionette	INFO	Stopped listening on port 54892
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

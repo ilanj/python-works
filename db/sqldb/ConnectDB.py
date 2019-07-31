@@ -7,7 +7,7 @@ class ConnectDB:
     mydb = mysql.connector.connect(
       host="localhost",
       user="root",
-      passwd="8xPm2vad",
+      passwd="8",
       port=3307,
       database="world"
     )

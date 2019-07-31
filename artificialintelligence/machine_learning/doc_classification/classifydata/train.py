@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from artificialintelligence.machine_learning.doc_classification.classifydata.Helper import Test
 
 # DATA_DIR = "./dataset_5classes/"
-DATA_DIR = "/home/ila/Documents/19to5/"
+DATA_DIR = "/home/ila/Documents/900_docs/ocr_text/"
 
 data = load_files(DATA_DIR, encoding="utf-8", decode_error="replace")
 print("the classes are",data.target_names)

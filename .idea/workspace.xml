@@ -2,101 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f87ff8-7254-4f74-a12e-1f39884cf4b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/list/listEg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buffer/checkis.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/checkis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/dl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/Helper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/naive_bayes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/datasets/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basics/exceptionhandling/exception_handling.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/downloadyt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/links_file.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,69 +51,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/flask_api/module_docker/index.py" />
-        <option value="$PROJECT_DIR$/flask_api/module_docker/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/datascience/doc_classification/classifydata/train.py" />
-        <option value="$PROJECT_DIR$/flask_api/flask_sample/crud.py" />
-        <option value="$PROJECT_DIR$/flask_api/hw.py" />
-        <option value="$PROJECT_DIR$/artificial_intelligence/deep_learning/tensorflow/first_step.py" />
-        <option value="$PROJECT_DIR$/pep8.txt" />
-        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/first_step.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loan_default_prediction/predict_loan_default.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/tensorflow/load_data.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/ner_spacy/NER_Entity.py" />
-        <option value="$PROJECT_DIR$/api/bingapi/search_bing_api.py" />
-        <option value="$PROJECT_DIR$/db/sqldb/TableOperations.py" />
-        <option value="$PROJECT_DIR$/Basics/dictionary/dict_module.py" />
-        <option value="$PROJECT_DIR$/model/model2.py" />
-        <option value="$PROJECT_DIR$/Basics/functions/lambda/lambdaex.py" />
-        <option value="$PROJECT_DIR$/Basics/functions/args.py" />
-        <option value="$PROJECT_DIR$/api/sendequests/sendreq.py" />
-        <option value="$PROJECT_DIR$/basics/dictionary/dict_ex_prog.py" />
-        <option value="$PROJECT_DIR$/fileoperations/sh/basic.py" />
-        <option value="$PROJECT_DIR$/programs/miscellaneous/wikipedia.py" />
-        <option value="$PROJECT_DIR$/programs/miscellaneous/wiki.py" />
-        <option value="$PROJECT_DIR$/programs/miscellaneous/antigravity_ex.py" />
-        <option value="$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/antigravity.py" />
-        <option value="$PROJECT_DIR$/basics/functions/lambda/lambdamap.py" />
-        <option value="$PROJECT_DIR$/basics/io/format.py" />
-        <option value="$PROJECT_DIR$/basics/io/print.py" />
-        <option value="$PROJECT_DIR$/basics/list/bufferlist.py" />
-        <option value="$PROJECT_DIR$/basics/list/ex_comprehension.py" />
-        <option value="$PROJECT_DIR$/basics/loops/loop_techniqueues/enumerate_ex.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner3.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner5.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/NER_Entity.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/decisiontree/dctree.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/assignment1.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/lasso.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare.py" />
-        <option value="$PROJECT_DIR$/zip/listwithzip.py" />
-        <option value="$PROJECT_DIR$/zip/zip_ex.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner.py" />
-        <option value="$PROJECT_DIR$/basics/strings/n_matches.py" />
-        <option value="$PROJECT_DIR$/fileoperations/file_conversions/test.py" />
-        <option value="$PROJECT_DIR$/fileoperations/file_conversions/links_file.txt" />
-        <option value="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" />
-        <option value="$PROJECT_DIR$/fileoperations/file_conversions/downloadyt.py" />
-        <option value="$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py" />
-        <option value="$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py" />
-        <option value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="43" />
-    <option name="y" value="27" />
-    <option name="width" value="1323" />
-    <option name="height" value="700" />
-  </component>
+  <component name="ProjectId" id="1OYKCyUfQ1qoPf9AtJQCCdcw7Ow" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -213,51 +70,6 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
-              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
-              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="doc_classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="artificialintelligence" type="462c0819:PsiDirectoryNode" />
-              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="doc_classification" type="462c0819:PsiDirectoryNode" />
-              <item name="classifydata" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -290,7 +102,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.ConnectDB">
+    <configuration name="ConnectDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sqldb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/sqldb/ConnectDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="checkis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fileoperations/file_conversions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buffer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buffer/checkis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex_prog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/sets/ex_prog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vid_mp3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,32 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fileoperations/file_conversions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="video2mp3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fileoperations/file_conversions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/tuples/words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -505,19 +317,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.dl" />
-      <item itemvalue="Python.train (1)" />
       <item itemvalue="Python.train" />
-      <item itemvalue="Python.vid_mp3" />
-      <item itemvalue="Python.video2mp3" />
+      <item itemvalue="Python.ex_prog" />
+      <item itemvalue="Python.words" />
+      <item itemvalue="Python.checkis" />
+      <item itemvalue="Python.ConnectDB" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ConnectDB" />
+        <item itemvalue="Python.checkis" />
         <item itemvalue="Python.train" />
-        <item itemvalue="Python.vid_mp3" />
-        <item itemvalue="Python.video2mp3" />
-        <item itemvalue="Python.dl" />
-        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.words" />
+        <item itemvalue="Python.ex_prog" />
       </list>
     </recent_temporary>
   </component>
@@ -630,32 +442,35 @@
       <option name="project" value="LOCAL" />
       <updated>1562991219283</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="miscellaneous additions">
+      <created>1563901581947</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563901581947</updated>
+    </task>
+    <task id="LOCAL-00016" summary="miscellaneous additions">
+      <created>1563901759467</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563901759467</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="700" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3037879" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32781458" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.429078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.20567375" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35992908" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3280142" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="double _" />
@@ -670,7 +485,8 @@
     <MESSAGE value="flask crud with mongo" />
     <MESSAGE value="refractoring" />
     <MESSAGE value="conversions" />
-    <option name="LAST_COMMIT_MESSAGE" value="conversions" />
+    <MESSAGE value="miscellaneous additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="miscellaneous additions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -692,7 +508,7 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/basics/list/listEg.py</url>
-          <line>19</line>
+          <line>23</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
@@ -1258,358 +1074,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basics/io/print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/bufferlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/collections.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/ex_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/heterogeneous.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/list_as_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/functions/functionsarg.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/functions/args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/functions/lambda/lambdaex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/dictionary/dict_ex_prog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/dictionary/dict_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/dictionary/dictex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/loops/loop_techniqueues/enumerate_ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/list_as_stack.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/list_doubles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/list/listEg.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#35#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/NER_Entity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/naivebayes/note.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/decisiontree/dectree_data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1178" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/decisiontree/dctree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/assignment1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/boston_data_pred.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/lasso.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/ndarraytopoly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/polyregression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/linear_regression/predictsquare1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/predict_loan_default.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/sklearn/loandefaultprediction/train_riyaz.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zip/listwithzip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zip/zip_ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/nltk/nltk_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/deep_learning/ner_spacy/ner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/strings/n_matches.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/yt2mp3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/writefile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset/print_hrlp.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/news20dataset/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/vid_mp3.py" />
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/dl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/Helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/naive_bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/featurebranch/lib/python3.6/site-packages/sklearn/datasets/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/video2mp3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/exceptionhandling/exception_handling.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/downloadyt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileoperations/file_conversions/links_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

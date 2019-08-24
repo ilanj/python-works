@@ -1,4 +1,4 @@
-Type 	                            Naming Convention 	                                                                        Examples
+Type 	                            Naming_Convention 	                                                                        Examples
 
 Function 	Use a lowercase word or words. Separate words by underscores to improve readability. 	                          function, my_function
 

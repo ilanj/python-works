@@ -1,13 +1,13 @@
 import pandas as pd
 import numpy as np
 col_names=['sl_no','age','gender','role','id']
-data=pd.read_table("G:\workspace\pythontutorial\io_files//ex.txt",sep="|",header=None)
+data=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/ex.txt",sep="|",header=None)
 print(data.columns)
 print(data.index)
 print(data.head())#both rows and column are characterized by indexes
 #index represent each row from 0 to n. when there is noe column name, index will be the default
 print(data.loc[25,3])#row 25 , 3 rd column. can also give column names
-data1=pd.read_table("G:\workspace\pythontutorial\io_files//ex.txt",sep="|",names=col_names)
+data1=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/ex.txt",sep="|",names=col_names)
 print(data1.loc[25,'age'])#row 25 , 3 rd column. can also give column names
 
 data1.set_index('id',inplace=True)

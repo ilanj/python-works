@@ -1,10 +1,5 @@
 import json
 from flask import Flask, request
-from werkzeug.utils import secure_filename
-
-from flask_api.flask_sample.Mongohelper import Mongohelper
-
-connect_db=Mongohelper()
 
 app = Flask(__name__)
 

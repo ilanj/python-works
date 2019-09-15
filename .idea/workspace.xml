@@ -2,14 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3f87ff8-7254-4f74-a12e-1f39884cf4b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/numpy/jn/np_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/numpy/jn/np_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/numpy/jn/np_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/2010_Census_Populations_by_Zip_Code.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/Camera.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/CausesOfDeath_France_2001-2008.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/Demographic_Statistics_By_Zip_Code.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/SpeedDating.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/TimeUse.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/WVSCulturalMap.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/cars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/cereal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/duplicaterows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/ex.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/ex_csv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/extsv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/factbook.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/film.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/gini.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/happiness.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/hiv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/kaggletest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/kaggletrain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/missingvalues.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/orders.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/smallwikipedia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artificialintelligence/pandas/files/uforeports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileoperations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileoperations/config_yaml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileoperations/config_yaml/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileoperations/config_yaml/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileoperations/config_yaml/read_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/dict_check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/list/listEg.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/list/listEg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buffer/checkis.py" beforeDir="false" afterPath="$PROJECT_DIR$/buffer/checkis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/sqldb/ConnectDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/file_conversions/dl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/list/listEg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/numpy/np1.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/np1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/numpy/np2.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/numpy/np2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/axis_param.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/axis_param.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/categories_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/categories_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/change_datatype.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/change_datatype.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/datapandas_xlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/datapandas_xlsx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/dates_times.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/dates_times.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/dummyvar.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/dummyvar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/filter_dataframe_byvalue.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/filter_dataframe_byvalue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/indices.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/indices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/kagglepredict.csv" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/kagglepredict.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/missing_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/missing_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/multiple_rows_cols.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/multiple_rows_cols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/multiplefilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/multiplefilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/orderstsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/orderstsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/pandas_Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/pandas_Series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/pandas_filter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/pandaswithscikit.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/pandaswithscikit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/read_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/read_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/remove_duplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/remove_duplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/removing_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/removing_columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/selected_columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/selected_columns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/sort_dataframe_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/sort_dataframe_series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artificialintelligence/pandas/split_train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/artificialintelligence/pandas/split_train_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/loops/loop_techniqueues/zip_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/loops/loop_techniqueues/zip_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/sets/setex.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/sets/setex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileoperations/sh/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileoperations/sh/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskapi/flask_sample/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/flask_sample/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskapi/flask_sample/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskapi/flask_sample/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Model1.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Model1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reusables/test/closest_matches.py" beforeDir="false" afterPath="$PROJECT_DIR$/reusables/test/closest_matches.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,30 +84,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>for</find>
-      <find>ctrl</find>
-      <find>loc</find>
-      <find>^\s*$</find>
-      <find>targ</find>
-      <find>from</find>
-      <find>pyt</find>
-      <find>stop</find>
-      <find>css</find>
-      <find>vectorizer</find>
-      <find>\</find>
-      <find>dum</find>
-      <find>upd</find>
-      <find>compound</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>//</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\auxouser\PycharmProjects\demo</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,19 +108,21 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fileoperations/config_yaml" />
+      <recent name="$PROJECT_DIR$/basics/list" />
       <recent name="$PROJECT_DIR$/api" />
       <recent name="$PROJECT_DIR$/artificialintelligence/deep_learning" />
       <recent name="G:\workspace\pythontutorial\datascience\machine_learning" />
-      <recent name="G:\workspace\pythontutorial" />
-      <recent name="G:\workspace\pythontutorial\datascience" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artificialintelligence/pandas/files" />
       <recent name="$PROJECT_DIR$/fileoperations/file_conversions" />
       <recent name="G:\workspace\pythontutorial\flask\flask_sample" />
       <recent name="G:\workspace\pythontutorial\flask" />
@@ -102,28 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ConnectDB">
-    <configuration name="ConnectDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db/sqldb" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/sqldb/ConnectDB.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.string_methods">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="checkis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="removing_columns" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/buffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buffer/checkis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/pandas/removing_columns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_prog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selected_columns" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/sets/ex_prog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/pandas/selected_columns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sort_dataframe_series" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/machine_learning/doc_classification/classifydata/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/pandas/sort_dataframe_series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="split_train_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +234,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/tuples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/tuples/words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/pandas/split_train_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/artificialintelligence/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artificialintelligence/pandas/string_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,19 +356,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.train" />
-      <item itemvalue="Python.ex_prog" />
-      <item itemvalue="Python.words" />
-      <item itemvalue="Python.checkis" />
-      <item itemvalue="Python.ConnectDB" />
+      <item itemvalue="Python.removing_columns" />
+      <item itemvalue="Python.selected_columns" />
+      <item itemvalue="Python.sort_dataframe_series" />
+      <item itemvalue="Python.split_train_test" />
+      <item itemvalue="Python.string_methods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ConnectDB" />
-        <item itemvalue="Python.checkis" />
-        <item itemvalue="Python.train" />
-        <item itemvalue="Python.words" />
-        <item itemvalue="Python.ex_prog" />
+        <item itemvalue="Python.string_methods" />
+        <item itemvalue="Python.split_train_test" />
+        <item itemvalue="Python.sort_dataframe_series" />
+        <item itemvalue="Python.selected_columns" />
+        <item itemvalue="Python.removing_columns" />
       </list>
     </recent_temporary>
   </component>
@@ -1011,6 +1050,51 @@
           <line>7</line>
           <option name="timeStamp" value="201" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/numpy/np1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/numpy/np1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/numpy/np1.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/numpy/np1.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reusables/test/closest_matches.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reusables/test/closest_matches.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fileoperations/config_yaml/read_config.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fileoperations/config_yaml/config.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/artificialintelligence/pandas/datapandas_xlsx.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1025,54 +1109,5 @@
         <watch expression="vectorizer" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>data.target_names</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>type(data)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>type(y_test)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>len(y_test)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>y_test</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vectorizer.vocabulary_.values()[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vectorizer.vocabulary_.values()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>type(vectorizer.vocabulary_)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vectorizer.vocabulary_.values()[20]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
 </project>

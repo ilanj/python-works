@@ -1,12 +1,12 @@
 import pandas as pd
 import numpy as np
 col_names=['sl_no','age','gender','role','id']
-data=pd.read_table("G:\workspace\pythontutorial\io_files//ex.txt",sep="|",names=col_names)
+data=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/ex.txt",sep="|",names=col_names)
 print(data.columns)
-select_data=pd.read_table("G:\workspace\pythontutorial\io_files//ex.txt",sep="|",names=col_names,usecols=[0,1,4])
+select_data=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/ex.txt",sep="|",names=col_names,usecols=[0,1,4])
 print(select_data.columns)
 #read n rows fast
-select_rows=pd.read_table("G:\workspace\pythontutorial\io_files//ex.txt",sep="|",names=col_names,usecols=[0,1,4],nrows=3)
+select_rows=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/ex.txt",sep="|",names=col_names,usecols=[0,1,4],nrows=3)
 print(select_rows)
 
 for x in data.role:

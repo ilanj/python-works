@@ -1,0 +1,25 @@
+file_config:
+
+  input_file_path: "/home/user/download/docids.txt"
+  pickle_file_path: "/home/user/download_/resources"
+  blob_file_download_path: "/home/user/Docume/"
+
+database:
+
+  db_connection_string: "localhost:27017"
+  db_name: "mongo"
+  document_collection_name: "localhost"
+
+student:
+
+  name: "fwfwrfwrfrfwrfrrgrgrgerg"
+  location: "dfvdefvebv"
+
+download_properties:
+
+  video: "True"
+  image: "True"
+  text: "True"
+  binary: "True"
+
+

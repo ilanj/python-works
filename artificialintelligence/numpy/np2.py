@@ -6,22 +6,22 @@ print(np.array(nos))
 
 # x=np.ones((3,3))
 # x=np.eye(3)
-x=np.eye(3)
+x=np.eye(4)
 print(x)
 
-dgnl=np.diag([2,4])
+dgnl=np.diag([2,4,6,5,4,7])
 print(dgnl)
 print(np.arange(10))
 print(np.arange(10,13))
 print(np.arange(10,100,5))
-print(np.linspace(0,10,20))#takes 20 nos between 0 to 10
+print(np.linspace(1,11,21))#takes 20 nos between 1 to 10
 
 n=np.arange(12)
 n1=np.reshape(n,(3,4))#exactly reshape with 12 elements
 print(n1)
-
+# The endpoint of the interval can optionally be excluded.
 n1=np.linspace(0,10,25,endpoint=False).reshape(5,5)
-print(n1)
+print("n1= ",n1)
 
 n1=np.random.randint(10,99,(3,3))
 print(n1)

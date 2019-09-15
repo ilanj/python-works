@@ -15,7 +15,7 @@ class Employee():
             self.major= ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
             obj=Employee(self.name, self.age, self.age)
             list_model.append(obj)
-            print(self.name)
+            print(self.__dict__)
 
 run= Employee("ila",28,'python')
 run.is_old()

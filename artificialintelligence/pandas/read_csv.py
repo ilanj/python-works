@@ -1,7 +1,7 @@
 import pandas as pd
 # Zip Code	Total Population	Median Age	Total Males	Total Females	Total Households	Average Household Size
 
-data=pd.read_csv("G:\workspace\pythontutorial\io_files//2010_Census_Populations_by_Zip_Code.csv")
+data=pd.read_csv("files/2010_Census_Populations_by_Zip_Code.csv")
 print(data["Zip Code"])
 print(type(data))
 # print(type(data["Zip Code"]))
@@ -10,7 +10,7 @@ print(type(data))
 print(data.shape)#rows,columns
 print(data.head) #prints data and with cols and rows as metadata
 print(data.head())
-print(data["Zip Code"]+data["Total Population"])#fetch 2 columns
+print(data["Zip Code"]+data["Total Population"])#fetch 2 columns and add
 #if u want to add this as a new column
 data['ziopulation'] = data['Median Age']+data['Total Population'].apply(int)
 temp=data['ziopulation']

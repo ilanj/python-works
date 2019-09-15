@@ -1,6 +1,6 @@
 import pandas as pd
 colnames=['slno','age','sex','role','zipcode']
-data=pd.read_table('G:\workspace\pythontutorial\io_files\duplicaterows.txt',sep='|',names=colnames,index_col='slno',header=None)
+data=pd.read_table('/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/duplicaterows.txt',sep='|',names=colnames,index_col='slno',header=None)
 print(data.head())
 print(data.zipcode.duplicated())
 print(data.zipcode.duplicated().sum())

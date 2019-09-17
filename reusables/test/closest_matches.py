@@ -19,7 +19,7 @@ def closest_matches_augmentation():
         text= fptr.read()
         words= text.split()
         for word in words:
-            match= get_close_matches(word, patterns)
+            match= get_close_matches(word, patterns, cutoff=0.9)
             if match:
                 print(patterns, word)
                 break

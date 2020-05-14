@@ -1,1 +1,0 @@
-print(list(range(25,1,-1)))

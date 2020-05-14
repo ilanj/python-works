@@ -9,7 +9,7 @@ class Ner():
         # filename = "008.txt"
         # f = open(path + filename)
         # text = f.read()
-        text="my name is deddd and i am from Google in india"
+        text="my name is John and i am from Google in india"
         return text
         # doc = nlp(u"Smith is Driving this Weekend From Newyork to Newjersy covering 176 Kilometres for a Vacation")
 

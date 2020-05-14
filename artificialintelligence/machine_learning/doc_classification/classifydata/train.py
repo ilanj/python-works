@@ -6,8 +6,8 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 from artificialintelligence.machine_learning.doc_classification.classifydata.Helper import Test
 
-# DATA_DIR = "./dataset_5classes/"
-DATA_DIR = "/home/ila/Documents/900_docs/ocr_text/"
+DATA_DIR = "./dataset_5classes/"
+# DATA_DIR = "/home/ila/Documents/900_docs/ocr_text/"
 
 data = load_files(DATA_DIR, encoding="utf-8", decode_error="replace")
 print("the classes are",data.target_names)
@@ -42,10 +42,10 @@ cls.fit(vectorizer.transform(X_train), y_train)
 
 print("type(X_test)=",type(X_test))
 print("type(vectorizer.transform(X_test))=",type(vectorizer.transform(X_test)))
-# testobj=Test()
-# test_doc=testobj.data_for_a_document()
-# prediction_for_a_doc=cls.predict(vectorizer.transform(test_doc))
-# print("pred for a doc ",prediction_for_a_doc)
+testobj=Test()
+test_doc=testobj.data_for_a_document()
+prediction_for_a_doc=cls.predict(vectorizer.transform(test_doc))
+print("pred for a doc ",prediction_for_a_doc)
 
 y_pred = cls.predict(vectorizer.transform(X_test))
 print("accuracy with naive bayes = ",accuracy_score(y_test, y_pred))

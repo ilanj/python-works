@@ -8,7 +8,7 @@ def user():
     if request.method == 'GET':
         data={
 	"name": "saranya",
-	"company": "concord",
+	"company": "hcl",
 	"leaves": [7, 15, 22, 27],
 	"location": {
 		"native": "pondicherry",
@@ -22,6 +22,12 @@ def user():
         empdetails=json.dumps(data)
         return empdetails
 
+@app.route('/fact', methods = ['GET', 'POST', 'DELETE', 'PUT'])
+def factorial():
+	x= request.get_json()
+	x= x['no']
+	result= {"square":x*x}
+	return json.dumps(result)
 
 if __name__ == '__main__':
     app.run(debug=True)

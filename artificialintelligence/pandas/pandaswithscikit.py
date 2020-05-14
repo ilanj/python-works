@@ -1,7 +1,7 @@
 #predict survival based on other features
 #these are survivors of titanic
 import pandas as pd
-data=pd.read_csv('G:\workspace\pythontutorial\io_files\kaggletrain.txt')
+data=pd.read_csv('/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/kaggletrain.txt')
 print(data.head())
 feature_cols=['Pclass','Parch']#Passesnger class, parents and children
 
@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 logreg=LogisticRegression()
 logreg.fit(x,y)
 
-test_predict=pd.read_csv("G:\workspace\pythontutorial\io_files\kaggletest.txt")#no survival comumns
+test_predict=pd.read_csv("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/kaggletest.txt")#no survival comumns
 print(test_predict.head())
 x_test=test_predict.loc[:,feature_cols]
 print(x_test.head())

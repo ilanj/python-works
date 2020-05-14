@@ -6,7 +6,7 @@ so size increases substantially bur speeds up computations.
 '''
 import pandas as pd
 col_names=['sl_no','age','gender','role','id']
-data=pd.read_table("G:\workspace\pythontutorial\io_files//ex.txt",sep="|",names=col_names)#not sure ahy header=0 is used
+data=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/ex.txt",sep="|",names=col_names)#not sure ahy header=0 is used
 print(data.columns)
 print(data.info())#at the end shows in + in memory. object type stores string, and not counted
 print(data.info(memory_usage='deep'))#now original size is displayed

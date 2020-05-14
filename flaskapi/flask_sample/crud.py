@@ -13,8 +13,8 @@ def user(user_id):
     if request.method == 'GET':
         print(user_id)
         data={
-	"name": "saranya",
-	"company": "concord",
+	"name": "xxxxxx",
+	"company": "yyyyyy",
 	"leaves": [7, 15, 22, 27],
 	"location": {
 		"native": "pondicherry",

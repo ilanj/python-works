@@ -1,5 +1,5 @@
 import pandas as pd
-data=pd.read_csv("G:\workspace\pythontutorial\io_files//CausesOfDeath_France_2001-2008.csv")
+data=pd.read_csv("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/CausesOfDeath_France_2001-2008.csv")
 print(data)
 print(data.dtypes)
 #droping a single column

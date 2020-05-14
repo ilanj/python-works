@@ -1,5 +1,5 @@
 import pandas as pd
-data=pd.read_csv('G:\workspace\pythontutorial\io_files\missingvalues.txt')
+data=pd.read_csv('/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/missingvalues.txt')
 print(data.columns)
 data.columns=data.columns.str.replace(" ","")
 print("after removing space in columns",data.columns)
@@ -20,7 +20,7 @@ print(data.shape)
 #drop a row if any of its avlue is missing
 # data.dropna(how='any',inplace=True)
 print(data.dropna(how='any').shape)
-print(data.dropna(how='all').shape)#if all the values are missing
+print(data.dropna(how='all').shape)#if all the values of a row are missing
 print(data.shape)
 print(data.dropna(subset=['ColorsReported', 'ShapeReported'], how='all').shape)
 print(data.ShapeReported.value_counts())

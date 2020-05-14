@@ -10,7 +10,7 @@ class Student():
 
     def checkdata(self):
         Student.__init__(self,54,88888,87)
-        print(Student)
+        print(self.name, self.dob, self.location)
 
 
 obj = Student(3, 32, 23)

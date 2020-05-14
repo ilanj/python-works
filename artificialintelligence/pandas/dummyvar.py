@@ -3,7 +3,7 @@ when dummies are used, for example there are 2 values in sex series, m and f, th
 and it will contain binary values 0 and 1 only. for the values present 1 will be there
 '''
 import pandas as pd
-data=pd.read_csv("G:\workspace\pythontutorial\io_files\kaggletrain.txt")
+data=pd.read_csv("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/kaggletrain.txt")
 x=data.iloc[:,0:2]
 y=data.iloc[:,-1]
 data['gender_binary']=data.Sex.map({'female':0,'male':1})

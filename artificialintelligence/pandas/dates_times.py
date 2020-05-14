@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-data=pd.read_csv('G:\workspace\pythontutorial\io_files/uforeports.txt')
+data=pd.read_csv('/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/uforeports.txt')
 print(data.head())
 
 #time column to pandas special date time column-gonna replace

@@ -18,5 +18,6 @@ nos.add(25)
 print(nos)
 nos.remove(25)
 print(nos)
-
+e= next(iter(nos))
+print(e)
 

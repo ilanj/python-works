@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-data=pd.read_table("G:\workspace\pythontutorial\io_files\orders.txt")
+data=pd.read_table("/home/ila/PycharmProjects/pythonworks/artificialintelligence/pandas/files/orders.txt")
 
 
 # In[4]:

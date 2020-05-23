@@ -8,7 +8,7 @@ model_list = []
 
 @dataclass
 class PatientInformation():
-
+    __slots__ = ['name', 'dob']
     name : str
     dob : str
 

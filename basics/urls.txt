@@ -1,0 +1,2 @@
+https://medium.com/python-pandemonium/never-write-for-loops-again-91a5a4c84baf
+https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/

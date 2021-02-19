@@ -1,0 +1,3 @@
+while reading a file u can directly say which column u want to take as index
+loc-label  based indexing
+iloc-position based indexing

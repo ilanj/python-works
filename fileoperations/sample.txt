@@ -1,0 +1,1 @@
+just writing a sample data to file

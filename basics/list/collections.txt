@@ -1,0 +1,7 @@
+
+
+    Collections:
+    List is a collection which is ordered and changeable(mutable). Allows duplicate members.-[]
+    Tuple is a collection which is ordered and unchangeable-immutble. Allows duplicate members-()
+    Set is a collection which is unordered and unindexed.mutable. No duplicate members.
+    Dictionary is a collection which is unordered, changeable(mutable) and indexed. No duplicate members.

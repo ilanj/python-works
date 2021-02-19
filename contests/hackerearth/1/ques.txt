@@ -1,0 +1,38 @@
+Input
+
+Input will begin with an integer N denoting the number of strings.
+N lines follows each having a string.
+The next line contains Q denoting the number of queries.
+Each of the next Q lines contain a query of the form l r S.
+
+Output
+For each query of type l r S, print the answer to that query. Each answer must be in a new line.
+
+Constraints
+
+100 ≤ N ≤ 100000
+100 ≤ Q ≤ 100000
+1 ≤ l ≤ r ≤ N
+Size of each string in the input is greater than or equal to 5 and less than or equal to 10.
+Each string contains only lower case english characters.
+SAMPLE INPUT
+3
+abc
+def
+abc
+3
+1 2 abc
+1 3 abc
+1 2 hgj
+SAMPLE OUTPUT
+1
+2
+0
+Explanation
+For query 1: Only one "abc" is present (at position 1st) in the range [1,2], so the answer is 1. For query 2: Two "abc" are present (at position 1 and at position 3), so the answer is 2. For query 3: No "hgf" is present in the range [1,2], so the answer is 0.
+
+Time Limit: 4.0 sec(s) for each input file.
+Memory Limit: 20 MB
+Source Limit: 1024 KB
+Marking Scheme: Marks are awarded if any testcase passes.
+Allowed Languages: Bash, C, C++, C++14, C++17, Clojure, C#, D, Erlang, F#, Go, Groovy, Haskell, Java, Java 8, JavaScript(Rhino), JavaScript(Node.js), Julia, Kotlin, Lisp, Lisp (SBCL), Lua, Objective-C, OCaml, Octave, Pascal, Perl, PHP, Python, Python 3, R(RScript), Racket, Ruby, Rust, Scala, Swift, Swift-4.1, TypeScript, Visual Basic

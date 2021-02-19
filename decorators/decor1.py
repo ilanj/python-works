@@ -3,6 +3,7 @@ def decorator_function(original_fun):
         return original_fun
     return wrapper_function()
 
+@decorator_function
 def display():
     print('display function ')
 

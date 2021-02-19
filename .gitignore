@@ -1,25 +1,6 @@
 __pycache__/
 venv/
 .idea/
-*.png
-*.json
-*.pdf
-*.txt
-*.gif
-*.doccano
-*.tif
-*.tiff
-*.py[cod]
-*.pickle
-*.txt
-*.xls
-*.xlsx
-.xlsx
-*.csv
-*.tsv
-.csv
-.pickle
-*.pickle
 *.exe
 # C extensions
 *.so

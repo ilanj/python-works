@@ -1,0 +1,5 @@
+matplotlib
+pre-commit
+flask_restful
+celery
+redis

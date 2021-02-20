@@ -24,7 +24,7 @@ for i in x:
 # List of Algorithms
 models = []
 models.append(('LinearRegression', LinearRegression()))
-models.append(('LogisticRegression', LogisticRegression()))
+models.append(('LogisticRegression', LogisticRegression(solver = 'lbfgs', max_iter=120)))
 models.append(('KNeighborsClassifier', KNeighborsClassifier()))
 models.append(('DecisionTreeClassifier', DecisionTreeClassifier()))
 models.append(('GaussianNB', GaussianNB()))

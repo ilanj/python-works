@@ -1,0 +1,4 @@
+delayed - Decorator used to capture the arguments of a function
+
+there will be no issue on more workers > jobs and vice versa
+if a proceess takes more time, still it will be completed and returned

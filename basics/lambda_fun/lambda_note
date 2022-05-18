@@ -1,0 +1,9 @@
+lambda function is called as anonymous function and it will not use def keyword or function name.
+
+As it does not have a function name it is called as anonymous function.
+
+It should be written in a single line, yet many arguments can be used
+
+With lanbda function, we cannot access global variable.
+
+

@@ -1,0 +1,6 @@
+matplotlib
+flask_restful
+celery
+redis
+pdfplumber
+pytube

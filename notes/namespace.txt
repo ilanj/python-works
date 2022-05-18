@@ -1,0 +1,10 @@
+A namespace containing all the built-in names is created when we start the Python interpreter and exists as long we
+don't exit.
+
+This is the reason that built-in functions like id(), print() etc. are always available to us from any part of the
+ program. Each module creates its own global namespace.
+
+
+    Function: Local namespace
+    Module: global namespace
+    built in namespace

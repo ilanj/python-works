@@ -11,4 +11,8 @@ completion_dawg = dawg.CompletionDAWG(words)
 print("foo" in base_dawg)
 print(completion_dawg.has_keys_with_prefix(u'f'))
 print(base_dawg.prefixes(u'foobarz'))
+<<<<<<< HEAD
 # print(completion_dawg.has(u'f'))
+=======
+print(completion_dawg.has(u'f'))
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2

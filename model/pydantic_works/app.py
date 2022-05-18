@@ -47,10 +47,13 @@ async def root():
 async def read_item():
     return "hello world"
 
+<<<<<<< HEAD
 @app.post("/postex/")
 async def create_item(item: Item):
     return item
 
+=======
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 @app.post("/status/")
 async def create_item(item: Item):
     #update in DB and UI

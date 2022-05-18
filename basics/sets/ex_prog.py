@@ -7,7 +7,11 @@ for i in range(n):
 print(char_set)
 print(sum(char_set))
 print(frozenset(sorted(char_set)))
+<<<<<<< HEAD
 print(sorted(char_set))
+=======
+print(sorted(sorted(char_set)))
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 # print(reversed((char_set)))#will not work
 
 

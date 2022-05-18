@@ -1,6 +1,11 @@
 '''
+<<<<<<< HEAD
 It updates the wrapper function to look like wrapped function by copying attributes such as __name__,
 __doc__ (the docstring), etc.if u remove wraps, called function details will be used
+=======
+It updates the wrapper function to look like wrapped function by copying attributes such as __name__, __doc__ (the docstring), etc.
+if u remove wraps, called function details will be used
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 '''
 import threading
 import time

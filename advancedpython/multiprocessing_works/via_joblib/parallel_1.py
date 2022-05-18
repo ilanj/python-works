@@ -1,4 +1,5 @@
 import time
+<<<<<<< HEAD
 from functools import wraps
 
 from joblib import Parallel, delayed
@@ -17,6 +18,16 @@ def timeit(func):
 @timeit
 def pow_five(n):
     time.sleep(1)
+=======
+
+from joblib import Parallel, delayed
+
+
+def pow_five(n):
+    # time.sleep(1)
+    if n==2:
+        time.sleep(1)
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
     print(n**5)
 
 if __name__ == "__main__":

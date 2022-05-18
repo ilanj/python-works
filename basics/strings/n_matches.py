@@ -5,10 +5,14 @@ for m in re.finditer('ll', text):
 
 text = 'positive'
 
+<<<<<<< HEAD
 # advisable
 if text == 'positive':
     print(True)
 
 # not advisable
 if text is 'positive':
+=======
+if text == 'positive':
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
     print(True)

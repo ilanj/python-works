@@ -9,9 +9,14 @@ else:
 
 print("count of 4 = ",nos.count(4))
 print("sum = ",sum(nos))
+<<<<<<< HEAD
 print("descending order ",tuple(reversed(nos))) #returned as list, so typecasting as tuple
 print("ascending order ",sorted(nos))
 print("ascending order ",(sorted(nos, reverse=True)))
+=======
+print("descending order ",tuple(reversed(nos)))
+print("ascending order ",list(sorted(nos)))
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 print("size=",len(nos))
 
 sq=tuple(x**2 for x in nos if x%2==0)#for comprehension in tuples use () instead of []

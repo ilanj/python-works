@@ -3,6 +3,11 @@ but when a function is associated with any obj, it is called method.
 
 for ex: nos=range(10)
         nos.append(), nos.remove() and even user defined are called methods.
+<<<<<<< HEAD
  A method is a function that “belongs to” an object. (In Python, the term method is not unique to class instances: other
  object types can have methods as well. For example, list objects have methods called append, insert, remove, sort,
  and so on.
+=======
+ A method is a function that “belongs to” an object. (In Python, the term method is not unique to class instances: other object types can have
+ methods as well. For example, list objects have methods called append, insert, remove, sort, and so on.
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2

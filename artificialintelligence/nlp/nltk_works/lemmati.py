@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 '''
 One major difference with stemming is that lemmatize takes a part of speech parameter, “pos” If not supplied, the
 default is “noun.”
 '''
 
+=======
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 import nltk
 nltk.download('punkt')
 from nltk.stem import WordNetLemmatizer
@@ -25,8 +28,12 @@ for word in sentence_words:
      This is done by giving the value for pos parameter in wordnet_lemmatizer.lemmatize
     '''
     print ("{0:20}{1:20}".format(word,wordnet_lemmatizer.lemmatize(word, pos='v')))
+<<<<<<< HEAD
 print(wordnet_lemmatizer.lemmatize("referral", pos='v'))
 
 # a denotes adjective in "pos"
 print("better :", wordnet_lemmatizer.lemmatize("better"))
 print("better :", wordnet_lemmatizer.lemmatize("better", pos ="a"))
+=======
+print(wordnet_lemmatizer.lemmatize("referral", pos='v'))
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2

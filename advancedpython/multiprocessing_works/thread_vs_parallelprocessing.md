@@ -1,5 +1,8 @@
 THREADS ARE SUBSET OF A PROCESS -Processes do not share the same memory space, while threads do 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 True parallelism can ONLY be achieved using multiprocessing
 
 Multithreading for I/O intensive tasks and;

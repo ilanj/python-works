@@ -5,8 +5,11 @@ class Testing():
     def get_no(self, no):
         self.no = no
         self.sq()
+<<<<<<< HEAD
         return self.sq2
 
+=======
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 
     def sq(self):
         self.sq = self.no * self.no

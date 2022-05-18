@@ -6,7 +6,11 @@ from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 from sklearn.naive_bayes import GaussianNB
 
+<<<<<<< HEAD
 data = pd.read_csv("artificialintelligence/pandas/files/sq_price.csv")
+=======
+data = pd.read_csv("../../../pandas/files/sq_price.csv")
+>>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 X = data[["sq.feet"]]
 y = data[["price"]]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)

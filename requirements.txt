@@ -4,3 +4,7 @@ celery
 redis
 pdfplumber
 pytube
+sklearn
+joblib
+dawg
+

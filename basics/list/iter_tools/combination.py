@@ -5,6 +5,12 @@ result = itertools.combinations(shapes, 2)
 for each in result:
     print(each)
 
+nos = [1,2,3,4,5,6,7]
+combis = itertools.combinations(nos, 2)
+for pair in combis:
+    if sum(pair) == 7:
+        print(pair)
+
 print("-------------------------------------")
 
 shapes = ['circle', 'triangle', 'square',]
@@ -12,12 +18,6 @@ result = itertools.combinations_with_replacement(shapes, 2)
 for each in result:
     print(each)
 
-# text = "apple banana mango orange"
-# words = text.split()
-# result = itertools.combinations(words, 2)
-# for each in result:
-#     each = each[0] + each[1]
-#     print(each)
 def get_as_bigram(text):
     # text = "apple banana mango"
     words = text.split()

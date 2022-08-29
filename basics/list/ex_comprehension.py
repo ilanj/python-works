@@ -8,7 +8,8 @@ print(sq)
 sq1 = [(x**2) for x in nos if x%2==0 ]
 print(sq1)
 
-
+even = [x**3 for x in nos if x%2 == 0]
+print(even)
 
 # even=[(x) for x in nos if x%2==0]
 #

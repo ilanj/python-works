@@ -8,3 +8,4 @@ elif n%3==0 or n%5==0:
 else:
     print(n,' not divisible by both 3 and 5')
 
+

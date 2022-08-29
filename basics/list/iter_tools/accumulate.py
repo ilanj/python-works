@@ -5,20 +5,26 @@ It returns the accumulated results. The results are themselves contained in an i
 import operator
 import itertools
 
+def seperator(fun_name):
+    print(f"------------{fun_name}------------")
 data = [1, 2, 3, 4, 5]
 result = itertools.accumulate(data, operator.mul)
+print(seperator("product"))
 for each in result:
     print("using mul",each)
 
-result = itertools.accumulate(data, max)
+print(seperator("max"))
+max_no = itertools.accumulate(data, max)
 for each in result:
-    print("using max",each)
+    print("using max",max_no)
 
 #If no function is designated the items will be summed.
+print(seperator("sum"))
 result = itertools.accumulate(data)
 for each in result:
     print("using sum",each)
 
+print(seperator("concat"))
 words = ["one", "two", "three"]
 result = itertools.accumulate(words, operator.concat)
 for each in result:

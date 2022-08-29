@@ -8,3 +8,4 @@ print(vectorizer.get_feature_names(), "\n\n")
 for index in range(X.data.size - 1):
     print("word = ", vectorizer.get_feature_names()[index],"\t idf = ", vectorizer.idf_[index], "\t tfidf-idf = ",X.data[index])
 print("\n\n", X.toarray())
+#%%

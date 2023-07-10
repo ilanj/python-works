@@ -4,7 +4,7 @@ marks=int(input("enter marks"))
 if marks>100 or marks<0:
     print("invalid marks.. mark cannot be beyond 100 or within 0")
 elif marks==100:
-    print("s grade")
+    print("S grade")
 elif marks>90:
     print('A grade')
 elif marks > 80:

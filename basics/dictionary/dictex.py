@@ -15,8 +15,13 @@ print(student)
 studname=student["name"]
 print(studname)
 
-str=student.get("place")
+str=student.get("name1")
 print(str)
+
+"""diff between 
+studname=student["name1"] throws keyerror
+and str=student.get("name1") returns none
+"""
 student["place"]="shozhinganallur"
 print(student)
 student["college"]="aiht"

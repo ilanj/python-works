@@ -14,4 +14,5 @@ print(S[1])
 # Access using name
 print("The Student name using keyname is : ", end="")
 print(S.name)
+print(s1.age)
 print(s1)

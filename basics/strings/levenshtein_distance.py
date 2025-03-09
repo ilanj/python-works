@@ -1,5 +1,5 @@
 # reference https://pypi.org/project/fuzzywuzzy/
-#requirement pip install fuzzywuzzy
+# requirement pip install fuzzywuzzy
 
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process

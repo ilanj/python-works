@@ -1,12 +1,14 @@
 import asyncio
 import time
 
+
 async def say_after(delay, what):
     await asyncio.sleep(delay)
     print(what)
 
+
 async def main():
-    task2 = asyncio.create_task(say_after(10, 'world'))
+    task2 = asyncio.create_task(say_after(10, "world"))
     task1 = asyncio.create_task(say_after(5, "hello"))
     task3 = asyncio.create_task(say_after(3, "i am done parallely"))
 
@@ -20,5 +22,5 @@ async def main():
 
     print(f"finished at {time.strftime('%X')}")
 
-asyncio.run(main())
 
+asyncio.run(main())

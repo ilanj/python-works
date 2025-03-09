@@ -1,8 +1,10 @@
 import random
 import string
 
-list_model= []
-class Employee():
+list_model = []
+
+
+class Employee:
     def __init__(self, name, age, major):
         self.name = name
         self.age = age
@@ -10,17 +12,24 @@ class Employee():
 
     def is_old(self):
         for i in range(10):
-            self.name= ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
-            self.age= ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
-            self.major= ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
-            obj=Employee(self.name, self.age, self.age)
+            self.name = "".join(
+                random.choice(string.ascii_uppercase + string.digits) for _ in range(5)
+            )
+            self.age = "".join(
+                random.choice(string.ascii_uppercase + string.digits) for _ in range(5)
+            )
+            self.major = "".join(
+                random.choice(string.ascii_uppercase + string.digits) for _ in range(5)
+            )
+            obj = Employee(self.name, self.age, self.age)
             list_model.append(obj)
             # print(self.__dict__)
 
     def print_data(self):
-       for each in list_model:
-           print(each.name)
+        for each in list_model:
+            print(each.name)
 
-run= Employee("ila",28,'python')
+
+run = Employee("ila", 28, "python")
 run.is_old()
 run.print_data()

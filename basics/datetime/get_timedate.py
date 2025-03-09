@@ -7,4 +7,3 @@ time.sleep(1)
 end = time.strftime("%X")
 
 # print(start - end) this wont work as both are str
-

@@ -1,5 +1,5 @@
 try:
-    print(25/0)
+    print(25 / 0)
 except OSError as e:
     print("one", e)
 except EnvironmentError as e:
@@ -10,4 +10,3 @@ except Exception as e:
     print("four", e)
 finally:
     print(" this is finally")
-

@@ -3,9 +3,9 @@ import os
 import spacy
 
 nlp = spacy.load("en_core_web_lg")
-doc = nlp(u"Mark and John are working at Google. Ilanchezhian is testing his name")
+doc = nlp("Mark and John are working at Google. Ilanchezhian is testing his name")
 rootdir = "/home/ila/Documents/5db9961d00c8f8000168950f/text/"
-filepaths = os.listdir(rootdir);
+filepaths = os.listdir(rootdir)
 for each in filepaths:
     path = rootdir + each
 with open(path) as fptr:

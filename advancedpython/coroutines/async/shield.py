@@ -1,8 +1,9 @@
-'''
+"""
 If it is desired to completely ignore cancellation (not recommended) the shield() function
 should be combined with a try/except clause, as follows:
 19 May 2020 @: ilanchezhiancse@gmail.com
-'''
+"""
+
 import asyncio
 from asyncio import shield, CancelledError
 
@@ -15,10 +16,12 @@ async def factorial(name, number):
         f *= i
     print(f"Task {name}: factorial({number}) = {f}")
 
+
 async def main():
     try:
         res = await shield(factorial("a", 4))
     except CancelledError:
         res = None
+
 
 asyncio.run(main())

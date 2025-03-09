@@ -1,5 +1,5 @@
-test="haa i am {} years old"
+test = "haa i am {} years old"
 print(test.format("18"))
 
-test="learning {} is real {}"
-print(test.format("python","fun"))
+test = "learning {} is real {}"
+print(test.format("python", "fun"))

@@ -1,7 +1,8 @@
 def sum():
-    a=25
-    b=98
-    print(a+b)
+    a = 25
+    b = 98
+    print(a + b)
+
 
 def diff():
     a = 25
@@ -20,12 +21,14 @@ def prod():
     b = 98
     print(a * b)
 
+
 def call():
     sum()
     diff()
     div()
     prod()
 
+
 # call()
-if __name__ == '__main__':
+if __name__ == "__main__":
     call()

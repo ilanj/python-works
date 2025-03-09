@@ -1,5 +1,5 @@
 class Employee:
-    __count = 0;
+    __count = 0
 
     def __init__(self):
         Employee.__count = Employee.__count + 1

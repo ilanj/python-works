@@ -7,7 +7,9 @@ from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 user = ""
 pwd = ""
 
-driver = webdriver.Firefox(executable_path=r'C:\\Users\\auxouser\\PycharmProjects\\demo\\geckodriver.exe')
+driver = webdriver.Firefox(
+    executable_path=r"C:\\Users\\auxouser\\PycharmProjects\\demo\\geckodriver.exe"
+)
 driver.get("http://www.facebook.com")
 assert "Facebook" in driver.title
 elem = driver.find_element_by_id("email")

@@ -8,9 +8,9 @@ a, b = map(int, input().split())
 
 n = gcd(a, b)
 ans = 0
-for i in range(1, int(n ** .5) + 1):
+for i in range(1, int(n**0.5) + 1):
     if n % i == 0:
         ans += 2
-if int(n ** .5) ** 2 == n:
+if int(n**0.5) ** 2 == n:
     ans -= 1
 print(ans)

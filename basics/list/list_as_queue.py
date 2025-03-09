@@ -1,6 +1,6 @@
 from collections import deque
 
-nos=deque([1,2,3,4])
+nos = deque([1, 2, 3, 4])
 print(nos)
 
 

@@ -1,12 +1,14 @@
-class ABase():
+class ABase:
 
-    interest=11.23
+    interest = 11.23
+
     def __init__(self):
-        self.  test=67
+        self.test = 67
         print("i ma base A")
 
     def balance(self):
         return 250
 
-ex=ABase()
+
+ex = ABase()
 print(ex.test)

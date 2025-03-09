@@ -1,7 +1,9 @@
 import asyncio
 
+
 async def nested():
     return 42
+
 
 async def main1():
     # Nothing happens if we just call "nested()".
@@ -11,6 +13,7 @@ async def main1():
     # Let's do it differently now and await it:
     print(await nested())  # will print "42".
 
+
 async def main2():
     # Schedule nested() to run soon concurrently
     # with "main()".
@@ -19,6 +22,7 @@ async def main2():
     # "task" can now be used to cancel "nested()", or
     # can simply be awaited to wait until it is complete:
     print(await task)
+
 
 asyncio.run(main1())
 asyncio.run(main2())

@@ -6,8 +6,8 @@ text = text.lower()
 text_list = word_tokenize(text)
 print(text_list)
 
-#removing stopwords
-stop_words = stopwords.words('english')
+# removing stopwords
+stop_words = stopwords.words("english")
 text_wo_stopwords = list()
 for word in text_list:
     if word not in stop_words:

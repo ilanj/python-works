@@ -2,7 +2,9 @@ class Decorators:
 
     def __init__(self):
         ex = 78
-        print("decorators cotaining a constructor and 1.instance method 2.class method 3.static method")
+        print(
+            "decorators cotaining a constructor and 1.instance method 2.class method 3.static method"
+        )
 
     def instance_method(self, a, b):
         self.a = a
@@ -31,4 +33,3 @@ d.iamclassmethod(10, 20)
 d.iamstaticmethod()
 d.print_instance_class_vars()
 print(Decorators.x)
-

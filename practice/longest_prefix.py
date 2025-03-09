@@ -1,7 +1,7 @@
-'''
+"""
 {"abc", "abcd", "ab", "abx"}; Write a program to find Longest Common Prefix
 Output - “ab"
-'''
+"""
 
 input = ["abc", "abcd", "ab", "abx"]
 iterations = len(input)
@@ -30,7 +30,7 @@ input = ["abc", "abcd", "ab", "abx"]
 
 output = ""
 
-while(True):
+while True:
     itr = 0
     for word in input:
         temp = input[itr]
@@ -38,11 +38,7 @@ while(True):
             pass
         else:
             break
-        output = output+temp
+        output = output + temp
         itr += 1
 
 print(output)
-
-
-
-

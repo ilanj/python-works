@@ -1,4 +1,4 @@
-items = [25,36,9]
+items = [25, 36, 9]
 divisor = 13
 
 for item in items:

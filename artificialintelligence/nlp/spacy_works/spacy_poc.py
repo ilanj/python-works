@@ -5,9 +5,9 @@ import spacy
 nlp = spacy.load("en_core_web_sm")
 
 # Process whole documents
-text = ("""My name is Shaurya Uppal. 
+text = """My name is Shaurya Uppal. 
 I enjoy writing articles on GeeksforGeeks checkout
-my other article by going to my profile section.""")
+my other article by going to my profile section."""
 
 doc = nlp(text)
 

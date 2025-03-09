@@ -4,24 +4,29 @@ __init__ is the initializer you can only use, one init in a class.. u cannot ove
  last init wirh 3 arguments, it means u cannot overload init and call them accordingly, because in this ex u are
  only allowed to call init with 3 args"""
 
+
 class InitEx:
     def __init__(self):
         print(" this is a test and i am inside init")
-    def __init__(self,a,b):
-        print("i am first")
-        self.a=a
-        self.b=b
-        print((self.a,self.b))
-    def __init__(self,a,b):
-        print("i am sec")
-        self.a=a
-        self.b=b
-        print((self.a,self.b))
-    def __init__(self,a,b,c):
-        self.a=a
-        self.b=b
-        print((self.a,self.b,c))
 
-InitEx(10,20,30)
-#obj=InitEx()
-#obj=InitEx()
+    def __init__(self, a, b):
+        print("i am first")
+        self.a = a
+        self.b = b
+        print((self.a, self.b))
+
+    def __init__(self, a, b):
+        print("i am sec")
+        self.a = a
+        self.b = b
+        print((self.a, self.b))
+
+    def __init__(self, a, b, c):
+        self.a = a
+        self.b = b
+        print((self.a, self.b, c))
+
+
+InitEx(10, 20, 30)
+# obj=InitEx()
+# obj=InitEx()

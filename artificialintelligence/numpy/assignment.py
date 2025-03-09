@@ -3,10 +3,10 @@
 # column full of 3s, etc..
 import numpy as np
 
-x=np.ones((4,4))
-y=np.array([1,2,3,4])
-y1=np.array([[1],[2],[3],[4]])
-print(x*y)
-print(x*y1)
+x = np.ones((4, 4))
+y = np.array([1, 2, 3, 4])
+y1 = np.array([[1], [2], [3], [4]])
+print(x * y)
+print(x * y1)
 
-print(np.ones((4,4)) * np.arange(1,5))
+print(np.ones((4, 4)) * np.arange(1, 5))

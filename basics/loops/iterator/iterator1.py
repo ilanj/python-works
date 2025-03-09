@@ -1,5 +1,6 @@
 class Reverse:
     """Iterator for looping over a sequence backwards."""
+
     def __init__(self, data):
         self.data = data
         self.index = len(data)
@@ -12,7 +13,9 @@ class Reverse:
             raise StopIteration
         self.index = self.index - 1
         return self.data[self.index]
-rev=Reverse("abcd")
-#iter(rev)
+
+
+rev = Reverse("abcd")
+# iter(rev)
 for char in rev:
     print(char)

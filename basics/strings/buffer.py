@@ -1,11 +1,11 @@
-str="dataset"
+str = "dataset"
 
-if str=="dataset":
+if str == "dataset":
     print(True)
 if str in "dataset1":
     print(True)
 
-str=" rfee     egergf     "
-str=str.strip()
+str = " rfee     egergf     "
+str = str.strip()
 print(str)
 print("abcdefghi"[0:4])

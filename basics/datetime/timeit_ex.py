@@ -11,6 +11,10 @@ def timeit(func):
         return result
     return wrapper
 
+
+print(
+    timeit.repeat("sample()", setup="from timeit_ex import sample", number=1, repeat=3)
+)
 @timeit
 def pritning_arg():
     print("hello")

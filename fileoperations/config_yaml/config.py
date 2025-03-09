@@ -11,6 +11,7 @@ class MongoConfig:
         self.db_name = config["db_name"]
         self.db_collection_name = config["document_collection_name"]
 
+
 class InputConfig:
 
     def __init__(self, config):
@@ -18,6 +19,7 @@ class InputConfig:
         self.input_file_path = config["input_file_path"]
         self.pickle_file_path = config["pickle_file_path"]
         self.blob_file_download_path = config["blob_file_download_path"]
+
 
 class DownloadProperties:
 
@@ -29,17 +31,16 @@ class DownloadProperties:
         self.binary = ast.literal_eval(config["binary"])
 
 
-
-
 class Student:
 
     def __init__(self, config):
         self.name = config["name"]
         self.location = config["location"]
 
+
 class Config:
 
-    def __init__(self,config_file_path):
+    def __init__(self, config_file_path):
 
         config = read_config(config_file_path)
         if config is not None:
@@ -48,9 +49,10 @@ class Config:
             self.files = InputConfig(config["file_config"])
             self.download_properties = DownloadProperties(config["download_properties"])
 
+
 def read_config(config_file_path):
 
-    with open(config_file_path, 'r') as stream:
+    with open(config_file_path, "r") as stream:
         try:
             return yaml.safe_load(stream)
         except yaml.YAMLError as exc:

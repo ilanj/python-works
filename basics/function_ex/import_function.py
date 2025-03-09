@@ -7,4 +7,4 @@ from func import sumofnos
 from func import *
 
 sumofnos(4, 6)
-diff(2,9)
+diff(2, 9)

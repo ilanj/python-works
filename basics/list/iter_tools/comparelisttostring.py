@@ -1,4 +1,5 @@
 import itertools
+
 mylist = ["one", "two", "three"]
 text = "this is a sample  text one"
 

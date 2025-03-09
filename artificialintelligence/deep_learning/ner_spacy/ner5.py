@@ -2,7 +2,7 @@ import spacy
 
 # nlp = spacy.load("en_core_web_md")
 nlp = spacy.load("en_core_web_sm")
-doc = nlp(u"Apple and guava are similar. Pasta and hippo aren't.")
+doc = nlp("Apple and guava are similar. Pasta and hippo aren't.")
 
 apple = doc[0]
 mat = doc[2]

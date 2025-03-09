@@ -1,7 +1,7 @@
-i=0
+i = 0
 
-n=int(input("enter how many nos you wanna print"))
+n = int(input("enter how many nos you wanna print"))
 
-while i<=n:
+while i <= n:
     print(i)
-    i=i+1
+    i = i + 1

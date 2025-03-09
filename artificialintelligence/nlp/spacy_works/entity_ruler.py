@@ -4,23 +4,25 @@ import spacy
 from collections import Counter
 
 # This is the testing file
-filePath = 'input.txt'
+filePath = "input.txt"
+
 
 def getInputContent(inputFilePath):
-    print('**inputFilePath')
+    print("**inputFilePath")
     docContent = []
     if os.path.isfile(inputFilePath):
         try:
-            file = open(inputFilePath, 'r', encoding="utf8")
+            file = open(inputFilePath, "r", encoding="utf8")
             docContent = file.read()
             return docContent
         except Exception as err:
             print(err)
     return docContent
 
+
 def myPhraseMatcher(content):
-    nlp = spacy.load('en_core_web_sm')
-    phraseMatcher = PhraseMatcher(nlp.vocab, attr='LOWER')
+    nlp = spacy.load("en_core_web_sm")
+    phraseMatcher = PhraseMatcher(nlp.vocab, attr="LOWER")
     terms = ["cloud computing", "it", "information"]
     # Only run nlp.make_doc to speed things up
     patterns = [nlp.make_doc(text) for text in terms]
@@ -37,10 +39,11 @@ def myPhraseMatcher(content):
 
     c = Counter(matchedTokens)
     for token, count in c.most_common(3):
-        print('%s: %7d' % (token, count))
+        print("%s: %7d" % (token, count))
+
 
 def myTokenMatcher(content):
-    nlp = spacy.load('en_core_web_sm')
+    nlp = spacy.load("en_core_web_sm")
     matcher = Matcher(nlp.vocab)
     print("Match_By_Token============================")
     pattern1 = [{"LOWER": "cloud"}, {"LOWER": "computing"}]
@@ -59,12 +62,13 @@ def myTokenMatcher(content):
         matchedTokens.append(span.text.lower())
     c = Counter(matchedTokens)
     for token, count in c.most_common(3):
-        print('%s: %7d' % (token, count))
+        print("%s: %7d" % (token, count))
 
 
 def main(argv=None):
     # myPhraseMatcher(getInputContent(filePath))
     myTokenMatcher(getInputContent(filePath))
+
 
 if __name__ == "__main__":
     main()

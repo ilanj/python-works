@@ -5,7 +5,5 @@ print(matrixa)
 
 for i in range(len(matrixa)):
     for j in range(len(matrixa[0])):
-        matrixb[j][i]=matrixa[i][j]
+        matrixb[j][i] = matrixa[i][j]
 print(matrixb)
-
-

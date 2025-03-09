@@ -20,15 +20,10 @@ for each in range(q):
 
 for itr, each in enumerate(l):
     ans = 0
-    for str in range(l[itr], r[itr]+1):
-        if search[itr] == text[str-1]:
-            ans= ans+1
+    for str in range(l[itr], r[itr] + 1):
+        if search[itr] == text[str - 1]:
+            ans = ans + 1
     res.append(ans)
 
 for each in res:
     print(each)
-
-
-
-
-

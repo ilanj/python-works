@@ -1,3 +1,4 @@
-import  django
-#todo
+import django
+
+# todo
 print(django.get_version())

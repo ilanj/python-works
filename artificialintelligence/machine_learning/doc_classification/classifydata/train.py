@@ -19,14 +19,16 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import confusion_matrix
-from artificialintelligence.machine_learning.doc_classification.classifydata.Helper import Test
+from artificialintelligence.machine_learning.doc_classification.classifydata.Helper import (
+    Test,
+)
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import plot_confusion_matrix
 
 DATA_DIR = "dataset_5classes"
 
 data = load_files(DATA_DIR, encoding="utf-8", decode_error="replace")
-#print("the classes are",data.target_names)
+# print("the classes are",data.target_names)
 
 
 def train_cls():
@@ -36,81 +38,97 @@ def train_cls():
     """
     metadata = np.unique(data.target, return_counts=True)
 
-    labels=metadata[0]
-    count=metadata[1]
-    class_names=data.target_names
-    #print(dict(zip(names,count)))
+    labels = metadata[0]
+    count = metadata[1]
+    class_names = data.target_names
+    # print(dict(zip(names,count)))
     for i in range(len(labels)):
         print(labels[i], class_names[i], count[i])
 
-    X_train, X_test, y_train, y_test = train_test_split(data.data, data.target, test_size=0.20, random_state = False)#test_size=0.50
-    print("X_test.shape=",len(X_test))
-    print("Y_test.shape=",y_test.shape)
-    print("X_train.shape=",len(X_train))
-    print("y_train.shape=",y_train.shape)
-    check=dict(zip(X_train,y_train))
+    X_train, X_test, y_train, y_test = train_test_split(
+        data.data, data.target, test_size=0.20, random_state=False
+    )  # test_size=0.50
+    print("X_test.shape=", len(X_test))
+    print("Y_test.shape=", y_test.shape)
+    print("X_train.shape=", len(X_train))
+    print("y_train.shape=", y_train.shape)
+    check = dict(zip(X_train, y_train))
 
-    #count vectorizer for BOW, just implemented and not used
+    # count vectorizer for BOW, just implemented and not used
     count_vect = CountVectorizer()
     X_train_counts = count_vect.fit_transform(X_train)
-    #tfidf -used here
-    vectorizer = TfidfVectorizer(stop_words="english", max_features=2000, decode_error="ignore")
+    # tfidf -used here
+    vectorizer = TfidfVectorizer(
+        stop_words="english", max_features=2000, decode_error="ignore"
+    )
     # print("Stop Words=",vectorizer.stop_words_)
     # with open("stopwords.txt") as fptr:
     #     fptr.write(vectorizer.stop_words_)
     vectorizer.fit(X_train)
-    keywords=vectorizer.get_feature_names()
-    print("keywords=",keywords)
-    #print("keywords=",keywords)
-    #print("keywords size=",len(keywords))
+    keywords = vectorizer.get_feature_names()
+    print("keywords=", keywords)
+    # print("keywords=",keywords)
+    # print("keywords size=",len(keywords))
     X_train_vectorized = vectorizer.transform(X_train)
-    print("Stop Words=",vectorizer.stop_words_)
+    print("Stop Words=", vectorizer.stop_words_)
     with open("stopwords.txt", "w") as fptr:
         for word in vectorizer.stop_words_:
-            fptr.write(word+" ")
+            fptr.write(word + " ")
         for word in ENGLISH_STOP_WORDS:
             fptr.write(word + " ")
     with open("features.txt", "w") as fptr:
         for word in keywords:
             fptr.write(word + " ")
 
-    #naivebayes
+    # naivebayes
     cls = MultinomialNB(alpha=0.001)
-    clf = RandomForestClassifier(n_estimators = 5) #ensemble method
+    clf = RandomForestClassifier(n_estimators=5)  # ensemble method
     cls.fit(vectorizer.transform(X_train), y_train)
-    joblib.dump(cls, "" + 'nb_model.h5')
-    testobj=Test()
-    test_doc=testobj.data_for_a_document()
+    joblib.dump(cls, "" + "nb_model.h5")
+    testobj = Test()
+    test_doc = testobj.data_for_a_document()
     y_pred = cls.predict(vectorizer.transform(X_test))
-    print("accuracy with naive bayes = ",accuracy_score(y_test, y_pred))
+    print("accuracy with naive bayes = ", accuracy_score(y_test, y_pred))
     print(confusion_matrix(y_test, y_pred))
-    #RandomForest
+    # RandomForest
     clf = RandomForestClassifier()
     clf.fit(vectorizer.transform(X_train), y_train)
-    joblib.dump(clf, "" + 'rf_model.h5')
+    joblib.dump(clf, "" + "rf_model.h5")
     joblib.dump(cls, "model/nb_model.h5")
     joblib.dump(vectorizer, "model/vectorizer")
     y_pred = clf.predict(vectorizer.transform(X_test))
-    print("accuracy with randomforest classifier = ",accuracy_score(y_test, y_pred))
+    print("accuracy with randomforest classifier = ", accuracy_score(y_test, y_pred))
     print(classification_report(y_test, y_pred))
 
-    svc_tfidf = Pipeline([
-        ("tfidf_vectorizer", TfidfVectorizer(stop_words="english", max_features=3000)),
-        ("linear svc", SVC(kernel="linear"))])
+    svc_tfidf = Pipeline(
+        [
+            (
+                "tfidf_vectorizer",
+                TfidfVectorizer(stop_words="english", max_features=3000),
+            ),
+            ("linear svc", SVC(kernel="linear")),
+        ]
+    )
 
-    models = [("svc_tfidf", svc_tfidf), ]
+    models = [
+        ("svc_tfidf", svc_tfidf),
+    ]
 
-    svc_score = [(name, cross_val_score(model, X_train, y_train, cv=2).mean()) for name, model in models]
+    svc_score = [
+        (name, cross_val_score(model, X_train, y_train, cv=2).mean())
+        for name, model in models
+    ]
     scores = sorted(svc_score, key=lambda x: -x[1])
     print(scores)
 
     models = []
-    models.append(('LogisticRegression', LogisticRegression(solver = 'lbfgs', max_iter=120)))
-    models.append(('KNeighborsClassifier', KNeighborsClassifier()))
-    models.append(('DecisionTreeClassifier', DecisionTreeClassifier()))
+    models.append(
+        ("LogisticRegression", LogisticRegression(solver="lbfgs", max_iter=120))
+    )
+    models.append(("KNeighborsClassifier", KNeighborsClassifier()))
+    models.append(("DecisionTreeClassifier", DecisionTreeClassifier()))
     # models.append(('GaussianNB', GaussianNB()))
     # models.append(('SVC', SVC()))
-
 
     # Loop through models and identify the best model to predict square
     for name, model in models:
@@ -120,17 +138,23 @@ def train_cls():
         print(name, accuracy_score(y_test, y_pred))
 
     # Plot non-normalized confusion matrix
-    titles_options = [("Confusion matrix, without normalization", None),
-                      ("Normalized confusion matrix", 'true')]
+    titles_options = [
+        ("Confusion matrix, without normalization", None),
+        ("Normalized confusion matrix", "true"),
+    ]
     for title, normalize in titles_options:
-        disp = plot_confusion_matrix(cls, vectorizer.transform(X_test), y_test,
-                                     display_labels=class_names,
-                                     cmap=plt.cm.Blues,
-                                     normalize=normalize)
+        disp = plot_confusion_matrix(
+            cls,
+            vectorizer.transform(X_test),
+            y_test,
+            display_labels=class_names,
+            cmap=plt.cm.Blues,
+            normalize=normalize,
+        )
         disp.ax_.set_title(title)
 
         print(title)
         print(disp.confusion_matrix)
 
     plt.show()
-    plt.savefig("cf.png", format='png')
+    plt.savefig("cf.png", format="png")

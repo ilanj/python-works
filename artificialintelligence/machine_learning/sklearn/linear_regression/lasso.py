@@ -4,10 +4,10 @@ from sklearn.linear_model import Lasso
 
 # Assign the data to predictor and outcome variables
 # TODO: Load the data
-train_data = pd.read_csv('input.txt',header = None)
-X = train_data.iloc[:,:-1]
+train_data = pd.read_csv("input.txt", header=None)
+X = train_data.iloc[:, :-1]
 print(X.shape)
-y = train_data.iloc[:,-1]
+y = train_data.iloc[:, -1]
 
 # TODO: Create the linear regression model with lasso regularization.
 lasso_reg = Lasso()
@@ -23,5 +23,18 @@ print(X.shape)
 print(type(reg_coef))
 # reg_coef.reshape(-1,1)
 print(reg_coef.shape)
-prediction=lasso_reg.predict(np.array([[1.2,2,-6.2,4.7,-4,0.2,]]))
+prediction = lasso_reg.predict(
+    np.array(
+        [
+            [
+                1.2,
+                2,
+                -6.2,
+                4.7,
+                -4,
+                0.2,
+            ]
+        ]
+    )
+)
 print()

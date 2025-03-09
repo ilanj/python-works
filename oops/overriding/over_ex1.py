@@ -9,4 +9,4 @@ class Dog(Animal):
 
 
 d = Dog()
-d.speak()  
+d.speak()

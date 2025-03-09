@@ -4,7 +4,7 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 import numpy as np
 
-data = np.asarray(pd.read_csv('dectree_data.txt', header=None, sep=','))
+data = np.asarray(pd.read_csv("dectree_data.txt", header=None, sep=","))
 X = data[:, 0:2]
 y = data[:, 2]
 

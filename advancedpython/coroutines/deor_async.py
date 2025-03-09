@@ -14,9 +14,10 @@ except Exception as e:
     print("Failed : {} ".format(e))
 
 global r
-r = redis.Redis(host='localhost', port=6379, db=0)
+r = redis.Redis(host="localhost", port=6379, db=0)
 
 queue = Queue()
+
 
 def cache_async(f):
     async def wrapper(*args, **kwargs):

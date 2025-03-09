@@ -1,6 +1,11 @@
 from PyPDF2 import PdfFileWriter, PdfFileReader
 
-inputpdf = PdfFileReader(open("/home/ila/Documents/personal/certificates/247_ai_certificates/paperwork/10_12.pdf", "rb"))
+inputpdf = PdfFileReader(
+    open(
+        "/home/ila/Documents/personal/certificates/247_ai_certificates/paperwork/10_12.pdf",
+        "rb",
+    )
+)
 
 for i in range(inputpdf.numPages):
     output = PdfFileWriter()

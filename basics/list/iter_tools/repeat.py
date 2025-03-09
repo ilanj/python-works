@@ -3,6 +3,6 @@ import itertools
 for i in itertools.repeat("spam", 7):
     print(i)
 
-#infinite loop
+# infinite loop
 for i in itertools.repeat("spam"):
     print(i)

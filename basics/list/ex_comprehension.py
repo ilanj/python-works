@@ -1,14 +1,14 @@
-#syntax:[expression followed by a for (more for is optiona;) (if is optional)]
-nos=range(1,11)
+# syntax:[expression followed by a for (more for is optiona;) (if is optional)]
+nos = range(1, 11)
 
-sq=[(x**2) for x in nos]
+sq = [(x**2) for x in nos]
 print(sq)
 
 
-sq1 = [(x**2) for x in nos if x%2==0 ]
+sq1 = [(x**2) for x in nos if x % 2 == 0]
 print(sq1)
 
-even = [x**3 for x in nos if x%2 == 0]
+even = [x**3 for x in nos if x % 2 == 0]
 print(even)
 
 # even=[(x) for x in nos if x%2==0]

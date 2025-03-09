@@ -9,4 +9,6 @@ def parent(num):
         return first_child()
     else:
         return second_child
+
+
 print(parent(1))

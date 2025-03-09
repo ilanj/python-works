@@ -1,6 +1,6 @@
 import random
 
-nos1 = [1,4,2,67,9]
+nos1 = [1, 4, 2, 67, 9]
 
 print(max(nos1))
 print(min(nos1))

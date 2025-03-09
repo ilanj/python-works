@@ -1,7 +1,7 @@
 from pytube import YouTube
 
 YouTube("https://www.youtube.com/watch?v=s7NgczFZsII").streams.first().download()
-#ask for the link from user
+# ask for the link from user
 link = input("https://www.youtube.com/watch?v=BGdZw1aGIdw")
 yt = YouTube(link)
 #

@@ -19,11 +19,7 @@ def generate_prime_no(n):
             if each % itr == 0:
                 flag=1
                 break
-            if flag == 0:
-                if each % itr is 0:
-                    flag=1
-                    break
-        if flag is 0:
+        if flag == 0:
             print(each)
 
 

@@ -1,4 +1,4 @@
-n = 6
+n = 9
 for r in range(n):
     for space in range(n - r):
         print(" ", end="")

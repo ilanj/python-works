@@ -1,4 +1,10 @@
-a, b = 0, 1
-while a < 1000:
+a, b = -1, 1
+
+count = 15
+while a < 15:
+    # temp = a
+    # a = b
+    # b = temp + b
+    
     a, b = b, a + b
     print(b)

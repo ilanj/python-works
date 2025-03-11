@@ -43,20 +43,10 @@ async def read_item(item_id: str, test: str, q1: Optional[str] = None, q2: Optio
 async def root():
     return RedirectResponse("/swagger")
 
-@app.get("/ex")
-async def read_item():
-    return "hello world"
-
-<<<<<<< HEAD
-@app.post("/postex/")
-async def create_item(item: Item):
-    return item
-
-=======
->>>>>>> 7aea316fb7211c19240808b49e999c9f2e0561f2
 @app.post("/status/")
-async def create_item(item: Item):
+async def update_status(item: Item):
     #update in DB and UI
     return {"status" : "Received"}
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=5001, log_level="info")

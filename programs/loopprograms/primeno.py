@@ -6,7 +6,6 @@ def check_prime_no(n):
             break
 
     if flag == 0:
-
         print(n," is prime")
         return n
     else:

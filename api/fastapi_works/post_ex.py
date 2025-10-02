@@ -13,8 +13,8 @@ class ResponseModel(BaseModel):
     res: int
 
 
-@app.post("/getfact")
-async def get_fact(req: RequestModel):
+@app.post("/get_sq")
+async def get_sq(req: RequestModel):
 
     return {req.no: req.no * req.no}
 

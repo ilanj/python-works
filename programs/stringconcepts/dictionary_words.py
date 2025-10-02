@@ -1,5 +1,7 @@
+"""
+brew install enchant
+"""
 import re
-
 import enchant
 
 text = (

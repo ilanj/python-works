@@ -33,7 +33,7 @@ async def root():
 
 @app.get("/ex")
 async def read_item():
-    return "hello world"
+    return "hello world!"
 
 
 @app.post("/status/")

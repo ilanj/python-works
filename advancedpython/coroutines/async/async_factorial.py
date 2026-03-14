@@ -6,6 +6,8 @@ async def factorial(name, number):
     f = 1.0
     await asyncio.sleep(1)
     print(f"Task {name}: Compute factorial({number})...")
+    if number == 3:
+        await asyncio.sleep(5)
     for i in range(2, number + 1):
         f *= i
     print(f"Task {name}: factorial({number}) = {f}")
